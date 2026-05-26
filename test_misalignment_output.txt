@@ -1,0 +1,36 @@
+Testing Complex Misalignment...
+
+--- TEST CASE A ---
+Original:
+Legal Company Name
+<u>InnoSoul, Inc.</u>
+Fixed:
+Legal Company Name <u>InnoSoul, Inc.</u>
+
+--- TEST CASE B ---
+Original:
+Year Established
+____________________
+<u>2003</u>
+Fixed:
+Year Established
+<u>2003</u>
+
+--- TEST CASE C ---
+Original:
+Legal Status: <u>Corporation</u>
+Fixed:
+Legal Status: <u>Corporation</u>
+
+--- TEST CASE D ---
+Original:
+Label D
+________________
+<u>Answer D</u>
+Fixed:
+Label D
+<u>Answer D</u>
+
+Results:
+Case A inline? True
+Case B inline? True

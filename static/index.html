@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RFP Autofill Agent</title>
+    <link rel="stylesheet" href="/static/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+</head>
+
+<body>
+    <div class="app-container">
+        <!-- Header -->
+        <header>
+            <div class="logo">
+                <i data-lucide="layers"></i>
+            </div>
+            <div>
+                <h1>RFP Autofill Agent</h1>
+                <p>Automate government forms with AI-powered precision</p>
+            </div>
+        </header>
+
+        <div class="main-grid">
+            <!-- Left Column: Uploads -->
+            <section class="card">
+                <div class="card-header">
+                    <div class="icon-box blue">
+                        <i data-lucide="file-text"></i>
+                    </div>
+                    <h2>1. Company Profile</h2>
+                </div>
+                <div class="upload-area" id="profile-upload">
+                    <input type="file" id="profile-input" accept=".pdf,.docx,.txt">
+                    <div class="upload-content">
+                        <i data-lucide="upload-cloud" class="upload-icon"></i>
+                        <p id="profile-status">Click or drag to upload knowledge base</p>
+                    </div>
+                </div>
+            </section>
+
+            <section class="card">
+                <div class="card-header">
+                    <div class="icon-box purple">
+                        <i data-lucide="file-input"></i>
+                    </div>
+                    <h2>2. Blank Form</h2>
+                </div>
+                <div class="upload-area" id="form-upload">
+                    <input type="file" id="form-input" accept=".pdf,.docx">
+                    <div class="upload-content">
+                        <i data-lucide="upload-cloud" class="upload-icon"></i>
+                        <p id="form-status">Click or drag to upload RFP/Form</p>
+                    </div>
+                </div>
+                <button id="autofill-btn" class="btn primary" disabled>
+                    <i data-lucide="play"></i> Run Auto-Fill Agent
+                </button>
+            </section>
+
+            <!-- Results Section -->
+            <section class="card success-card hidden" id="result-card">
+                <div class="success-header">
+                    <i data-lucide="check-circle" class="success-icon"></i>
+                    <div>
+                        <h3>Form Filled Successfully</h3>
+                        <p>Your document is ready.</p>
+                    </div>
+                </div>
+                <div class="btn-group">
+                    <a href="/api/download/pdf" class="btn outline" target="_blank">
+                        <i data-lucide="download"></i> PDF
+                    </a>
+                    <a href="/api/download/docx" class="btn outline" target="_blank">
+                        <i data-lucide="download"></i> DOCX
+                    </a>
+                </div>
+            </section>
+
+            <!-- Right Column: Chat -->
+            <section class="card chat-card">
+                <div class="chat-header">
+                    <i data-lucide="sparkles"></i>
+                    <h3>Compliance Assistant</h3>
+                </div>
+                <div class="chat-body" id="chat-body">
+                    <div class="message bot">
+                        <div class="avatar"><i data-lucide="bot"></i></div>
+                        <div class="bubble">Hello! I am your RFP compliance assistant. Upload a company profile and ask
+                            me anything.</div>
+                    </div>
+                </div>
+                <div class="chat-footer">
+                    <input type="text" id="chat-input" placeholder="Ask a question..." disabled>
+                    <button id="chat-send" disabled><i data-lucide="send"></i></button>
+                </div>
+            </section>
+        </div>
+    </div>
+    <script src="https://unpkg.com/lucide@latest"></script>
+    <script src="/static/script.js"></script>
+    <script>
+        lucide.createIcons();
+    </script>
+</body>
+
+</html>

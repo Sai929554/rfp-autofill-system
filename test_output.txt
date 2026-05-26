@@ -1,0 +1,4 @@
+Testing Gemini integration...
+Response: Name   : <u>Acme Corp.</u>
+Service: <u>Rocket Science</u>
+Time taken: 3.30s

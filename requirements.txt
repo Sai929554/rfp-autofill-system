@@ -1,0 +1,10 @@
+google-generativeai
+uvicorn
+python-multipart
+
+pdfplumber
+pypdf
+python-docx
+reportlab
+python-dotenv
+markdown

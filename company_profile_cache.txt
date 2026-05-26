@@ -1,0 +1,2590 @@
+
+1 Cover Letter 
+Cover Letter 
+ 
+Dear Sir/Madam, 
+We accept all the provisions set forth in the solicitation and amendments with no 
+exceptions. The undersigned will be the responder and responder’s representative for this 
+solicitation. We warrant that, to the best of our knowledge and belief there are no relevant 
+facts or circumstances which could give rise to organizational conflicts of interest.  The 
+proposal is valid for 180 days from the date of submission.  
+ 
+1. Name of Company (Legal Business name): innoSoul, Inc. 
+The legal status (e.g. corporation, sole proprietor, etc): Corporation Since 2003 
+Address of Company: 349 Kinderkamack Rd Westwood, NJ 07675         
+Contact Email: bids@innosoul.com  
+Contact Telephone Number: 518 400 0425 
+2. Company Contact/Principal Office: Rashi Shamshabad (officer: President) 
+3. Location of the facility from which the consultant would operate: 349 Kinderkamack Rd 
+Westwood, NJ 07675. 
+4. The person who signs this letter is authorized to contractually bind the Bidder’s firm 
+5. No variations between the Bidder’s Proposal and the requirements of this solicitation 
+6. There are NO debarments or terminations for default that have been experienced by the 
+Bidder.  
+ 
+ 
+With Warm Regards         
+ 
+Rashi Shamshabad,  
+President, innoSoul, Inc. 
+Ph: 518 400 0425  
+email: bids@innosoul.com  
+ 
+2 Executive Summary and Company Information 
+innoSoul Inc. is honored to present this proposal in response to Solicitation/Event: showcasing 
+our commitment to delivering exceptional temporary consulting services, including IT consulting 
+solutions, to meet the needs of the client. Since our inception in 2003, innoSoul Inc. has excelled 
+in providing end -to-end consulting solutions, leveraging our extensive experience with state 
+agencies and major private sector clients across the United States. 
+ 
+Our proposal aligns with the mission of the client to streamline s ervice delivery while ensuring 
+compliance, efficiency, and cost -effectiveness. Our proven methodologies focus on structured 
+planning, resource optimization, and change management, which mitigate risks and drive 
+successful outcomes. 
+
+ 
+ Page 1 of 58 
+ 
+ 
+Key Highlights: 
+ Expertise: Over two decades of specialized experience in IT consulting and consulting, 
+serving diverse public and private sector clients, including notable state agencies such as 
+NY, TX, NC, MN, and SC. 
+ Scalability: Strong nationwide network, including 2,7 50+ partners, ensuring rapid 
+deployment of qualified resources to fulfill both immediate and long -term consulting 
+needs. 
+ Technology-Driven Solutions: Advanced applicant tracking systems (ATS), automation 
+in recruitment, and collaboration tools that enhance  efficiency, reduce timelines, and 
+improve candidate matching. 
+ Commitment to Diversity:  As a woman -owned organization, we actively promote 
+partnerships with minority - and woman -owned subcontractors, fostering inclusivity in 
+every engagement. 
+ Proven Track Record: Achieved retention rates exceeding 90% over the past three years, 
+with a flawless history of meeting SLA requirements and delivering sustainable results. 
+ 
+With a shared vision of driving operational excellence, innoSoul  Inc. is uniquely positioned to 
+partner with [agency/entity name] in delivering high -value consulting solutions that align with 
+your strategic goals. 
+ 
+We look forward to the opportunity to collaborate and are confident in our ability to meet and 
+exceed your expectations through this contract. 
+2.1 Bidder Information 
+innoSoul, Inc. was first started in the state of NV in 2003. innoSoul, Inc. is a 
+corporation. innoSoul, Inc. solution offerings are based on the concept of full IT 
+consulting life cycle. innoSoul ensures planned, result-oriented and end-to-end 
+solution with emphasis on planning, account management and change management 
+with consistent monitoring and tracking of resources which results in substantial 
+reduction of implementation related risks and disruptions. innoSoul provides high 
+value solutions for various state and local governments in the USA, using the 
+proven consulting methodology. innoSoul utilizes best practices facilitating clients a 
+chance to understand technical possibilities effectively utilizing the power of 
+technology. 
+ 
+innoSoul is working with various organizations in private and public sector.  It offers 
+necessary resources and expertise to augment client IT consulting needs. Since 
+2003 we are experienced in IT consulting and innovation. innoSoul understands 
+how to assess customer’s needs, from both a business and technological 
+perspective. innoSoul offers an array of services through its Cost Optimization 
+practices that will help customers assess, optimize, and consolidate their IT 
+resources. Customers will then be able to make the move through a realistic 
+assessment to see how our consulting can meet their requirements for today, 
+tomorrow, and beyond. 
+ 
+ 
+ Page 2 of 58 
+ 
+innoSoul is IBM partner with inception and specializes in IBM integration 
+technologies. We carved out a niche in Service Oriented Architecture (SOA) 
+offerings and providing services to major state and private sector clients. We 
+provided our IT staff with various skills to NY state agencies (DOL, DCJS, DTF, 
+OTDA etc.), MA DOR, TX (TEA/TWC/HHSC/DFPS/CPA/TDLR/TPWD/RRC/DART/City 
+of Plano), NC, SC  and major private clients like JPM Chase, Cigna, Chubb 
+Insurance, BCBS/Health Now/HCSC, Atlas Air, Honda, First Tennessee Bank, eBay, 
+SunTrust Bank, NetJets, Travel Guard/AIG, Genworth Financials, etc.  
+ 
+We develop internal resources in specialized niche technologies and provide other 
+vanilla technology resources from market. We have been providing IT staff covering 
+breadth of technological landscape that includes Oracle, SAP, Microsoft, Java, IBM, 
+Cloud, Mobile, Networking, Security etc. areas. With this experience, we are confident 
+and committed to provide quality service to the state of KS and its agencies at 
+competitive rates. 
+innoSoul, Inc. has been providing services requested in this solicitation to TX, NC, 
+NY, SC, MI, MD, MN, etc. state agencies, other local governments, school districts 
+and other private/public entities. 
+2.2 Personnel 
+The following team is in place to service the state contract:  
+Name Education Role IT 
+Experience 
+Title Similar Clients Managed Government 
+Experience 
+Rashi 
+Shamshabad 
+BS Contract 
+Manager 
+20 years President NC SC MD WA MN NY KS 
+FL MS UT PA VA CA 
+20 years 
+Shashi Kanth BS 
+MS 
+Account 
+Manager 
+18 years Manager PA VA NY MN MD CT MA 15 years 
+ 
+Rashi Shamshabad – Account/Contract Manager 
+Our president, Ms. Rashi will be the customer relationship contact for this contract and act as 
+Account/Contract Manager with ultimate decision power. Ms. Rashi offers around 20 years of 
+experience in the computer industry including 17 years in the specialized areas of Human Resources 
+Development and Marketing for government agencies. She is an experienced manager and people 
+person to implement Business Solutions.  She is known as a leader around many facets of Business 
+Circles. From a strong family business background and working as a Marketing Executive for various 
+companies, Rashi was exposed to customer service excellence and began providing solutions with 
+confidence.    She manages similar contracts for innoSoul, Inc. with various state agencies: NC SC MD WA 
+MN NY KS FL MS UT PA VA CA and some smaller government agencies like Miami Dade county public 
+schools. 
+Focus: 
+Ms. Rashi provides real life experience in providing Business Solutions to add value to her clients.  She 
+focuses on reducing developmental cost through efficient outsourcing.  Her soft skills are keys in her 
+efforts to reproduce herself within client’s resources pool.  For years she has led projects through the 
+full life cycle and support perspectives.  Ms. Rashi works to enable clients to become self-sufficient in 
+the use of technology solutions.  
+ 
+ Page 3 of 58 
+ 
+Industry Knowledge: 
+As a Business Specialist, Ms. Rashi’s skills allowed her to travel across Industries and countries that 
+include India, Singapore, China, Europe, Malaysia and the United States.  During her experience in 
+Singapore, she has participated in various business meets. She actively participates in government and 
+Woman organization conferences and exhibitions to interact with peers and clients. She recently 
+completed a business management course from Dartmouth College.  
+Technical Expertise: 
+Ms. Rashi has led many initiatives that involved a variety of government clients.  Among the many such 
+projects, Ms. Rashi has hands on experience in dealing with partners and negotiating effectively.  She is 
+a well-known negotiator when it comes to finalizing deals. She is also very proficient at using business 
+productivity applications like Microsoft Office and internet tools that include social networking sites.  
+Recognition: 
+Services provided by Ms. Rashi have consistently met and exceeded the expectations of her clients. She 
+has received numerous recognition and appreciations for outstanding performance in the IT and 
+outsourcing field. She was an active member of Woman Business Enterprise Council (WBENC).  
+Leadership: 
+Ms. Rashi has been performing in leadership roles for more than a decade.  In addition to leading 
+multiple teams of technical professionals, she has been a leader in the application of soft skills and in 
+managing the organizational changes necessary to get results. Currently, she leads innoSoul, Inc. at the 
+difficult economic conditions prevailed all over the world. She also involves with local social and 
+technical groups in a leadership role.  
+ 
+Management Skills and Qualities: 
+Strong project management and team leadership abilities. 
+Focused on client, team, and overall business success. 
+Solid track record of goal-focused and value-add solutions. 
+Excellent decision-making, problem analysis, and presentation skills. 
+Outstanding multi-tasking ability, combining client and project tasks, managerial 
+activities and business development efforts. Exceptional communication and 
+relationship building skills. 
+Miscellaneous:  
+Microsoft Office  
+Microsoft Project 
+Lotus 
+Notes/QuickPlace 
+ 
+ 
+Education and Training: 
+Bachelor of Science (BS) in Commerce and Computers from Osmania University, India 
+M/WBE Training from Dartmouth College, Hanover NH  
+Certification course in Microsoft Technologies from Aptech, India 
+Various Human Resources and Marketing training sessions 
+Various conferences and seminars in HR and Marketing 
+ 
+Shashi Kanth – Account Manager 
+Mr. Shashi Kanth, Manager at innoSoul, Inc. will be the Account Manager to be in place for the duration 
+of the contract. He will be the single point of contact to the client Contract Manager, and will assume 
+responsibility for the coordination of all contract issues under this contract. He will meet with the client 
+Contract Manager and/or others necessary to resolve any conflicts, disagreements, or other contract 
+issues. Mr. Shashi Kanth offers around 18 years of experience in the computer industry including more 
+than 13 years in managing government projects for various state agencies. He also manages private 
+client accounts Deloitte and IBM for innoSoul, Inc. 
+Experience Summary: 
+ 
+ Page 4 of 58 
+ 
+Mr. Shashi Kanth offers around 18 years of experience in the computer industry including 13 years in the 
+specialized areas of Services Oriented Architecture (SOA), Enterprise Applications Integration (EAI) and 
+Business Process Management (BPM) for public sector clients (mostly state agencies).  He recently rolled 
+off services engagement for multiple State agencies that required heavy SOA integration. 
+Focus: 
+Mr. Shashi Kanth provides real life experience in providing Business Integration solutions to add value to 
+his clients.  He focuses on reducing developmental cost through the design and building of reusable 
+integration components and artifacts.  His soft consultant skills are keys in his efforts to reproduce 
+himself within client’s technical resources poll.  For years he has led projects through the design, 
+development, testing, deployment, rollout, documentation, training and support perspectives.  
+Industry Knowledge: 
+As a Business Specialist, Mr. Shashi Kanth’s skills allowed him to travel across Industries and Lines of 
+Businesses that includes Government, Banking, Insurance, Manufacturing and Financial Services 
+Industry.  During his experience at IBM he has taught technical training sessions to various clients. 
+Technical Expertise: 
+Mr. Shashi Kanth has led many large-scale Integration projects that involved a variety of services 
+oriented back end systems.  Among the many packaged application systems, Mr. Shashi Kanth has hands 
+on experience in Integrating SAP and Oracle ERP Applications.  He is also an experienced in most RDBMS 
+systems like Oracle, MS SQL Server, IBM DB2 etc.  He is a well-known WebSphere Business Integration 
+Architect with exposure to various IBM WebSphere family products 
+(WAS/WPS/ESB/MB/Portal/MQ/WF/WSRR/Modeler/Monitor/DataPower etc.). 
+Consulting Skills: 
+Mr. Shashi Kanth is an experienced consultant for various government agencies. Because of his soft 
+skills, technical expertise, experience and vision around the Business Integration space, he is typically 
+engaged at the root of most projects.  He is a team player and is capable of working as either a leader or 
+a follower.  However, in most cases, you will find Mr. Shashi Kanth wearing a variety of hats to meet 
+client needs and requirements. 
+Recognition: 
+Services provided by Mr. Shashi Kanth have consistently met and exceeded the expectations of his 
+clients. He has received numerous recognition and awards for outstanding performance in the IT and 
+Business Integration field.  
+Leadership: 
+Mr. Shashi Kanth has performed in leadership roles for more than 13 years.  In addition to leading 
+multiple teams of technical professionals, he has been a leader in the application of new technology and 
+in managing the organizational changes necessary to get results.  
+Management Skills and Qualities: 
+Strong project management and team leadership abilities. 
+Focused on client, team, and overall business success. 
+Solid track record of goal-focused and value-add solutions. 
+Excellent decision-making, problem analysis, and presentation skills. 
+Outstanding multi-tasking ability, combining client and project tasks, managerial activities and business 
+development efforts. 
+Ability to combine leading-edge technologies with proven approaches for project deployment in 
+creating custom methodologies for client success. 
+Exceptional communication and relationship building skills. 
+ 
+ Page 5 of 58 
+ 
+2.3 Organization Structure 
+innoSoul is envisaging the following organizational structure to fulfill the contract 
+arising out of this Solicitation. Our President will be the account executive to make 
+any and all decisions related to the account. Day to day interactions and operational 
+responsibility will be with our President who has rich experience working and 
+managing government clients (more specifically state agencies in US). Shashi 
+Kanth will be managing the internal team delivering the contract obligations. Other 
+staff members will ensure various requirements of the contract are fulfilled and 
+quality resources are submitted for state review.  
+ 
+With a startup culture, innoSoul, Inc. comprises of a flat organizational structure 
+with the president supervising whole operations and all the other employees helping 
+with the organizational activities. The team is cross-functional and each member 
+handles multiple responsibilities in addition to the primary responsibility. It helps 
+the organization respond to any emergencies.  
+2.4 Financials  
+We are proving valuable to government sector customers by providing timely and 
+quality resources. Another major factor in our growing success with government 
+clientele is our pricing: we are able to source quality resources in-house and 
+established subcontractor channels at affordable prices and passing the benefits to 
+our customers. InnoSoul has improved its internal processes since 2003 by 
+deploying latest tools and technologies in consulting process.  
+3 Qualifications 
+innoSoul is planning to reach out to all state’s customers with our offerings. We 
+intend to utilize technology in reaching out to vast customer base that will be in 
+reach through the contract from this Solicitation. Our responsive Web 2.0 website 
+has current contract details and will be updated with our new contract information 
+along with rate card in addition to our other service offerings as seen below: 
+ 
+Contract Manager 
+(Rashi Shamshabad, 
+President-innoSoul)
+Shashi Kanth
+Account Manager
+Recruiters
+HR Manager
+HR Executives
+Accounts 
+Manager
+Accounting 
+Executives
+Administrative 
+Assistant Finance Manager
+ 
+ Page 6 of 58 
+ 
+ 
+ 
+innoSoul, Inc. with its technology edge combined with quality resources can deliver 
+an efficient workforce to KS customers. With our efficient business process of 
+sourcing candidates, and cost advantage we anticipate most of our marketing and 
+support efforts will lead to a successful business relationship with the state of 
+Texas. The efficiencies at each stage of the process will result in savings all along 
+the supply chain. Technology edge and experience of innoSoul will help convert 
+process improvements and efficiencies into cost savings and valuable quality 
+resources for the end customer. 
+ 
+innoSoul, Inc. will provide quality sales, order processing and support for all state’s 
+customers using our in-house methodologies and systems evolved over last two 
+decades. We maintain an account manager who will be in-charge for all 
+communication with the state. The account manager is available all the time 
+through emails, phones and in-person when required. The response time for 
+email/phone call is within 8 business hours and personal meeting within one 
+business day. 
+ 
+We have satellite offices in various cities that we have been leveraging to provide 
+consulting services to various states. We also have partners and subcontractors in 
+various locations across the United States. We use our email group for partners that 
+reach close to 2750 partners in the country. We share our demands with all 
+partners automatically by email immediately after we receive from our clients. We 
+utilize our partners’ expertise and experience in serving the state.  
+ 
+
+ 
+ Page 7 of 58 
+ 
+ 
+ 
+Being a woman owned organization; we encourage other woman/minority owned 
+organizations to work with us in fulfilling demands arising from various clients.  
+4 Experience  
+Since 2003, with experience in IT consulting, consulting and innovation, innoSoul 
+understands how to assess customer needs, from both a business and technological 
+perspective. innoSoul offers an array of services through its Cost Optimization 
+practices that will help customers assess, optimize, and consolidate their IT 
+resources. Customers will then be able to make the move through a realistic 
+assessment to see how our consulting can meet their requirements for today, 
+tomorrow, and beyond. innoSoul resources have extensive experience, hold 
+advanced degrees and have most of the industry standard certifications by 
+Microsoft, Cisco, Oracle, PMI etc.  
+ 
+innoSoul is working with various organizations in private and public sector.  It offers 
+necessary resources and expertise to augment client IT consulting needs. Some of 
+innoSoul's current and past IT Consulting/Consulting contracts are:  
+ 
+1. CA: DEPARTMENT OF GENERAL SERVICES PROCUREMENT DIVISION  
+2. FL: Florida State: Miami-Dade County Bid 071-LL04, Information Technology Services 
+3. NC: Master Contract for the State of North Carolina 
+4. MI: State of Michigan IT Staff Augmentation Contract  
+5. MN: IT Professional Technical Services Master Contract Program (MCP) - 902TS 
+6. MS: State of Mississippi General RFP – Information Systems Consulting Services 
+7. MT: Master Contract for IT Services Term Contract SPB06-1263B-17F  
+8. NY: INFORMATION TECHNOLOGY TEMPORARY PERSONAL SERVICES BACKDROP CONTRACT  
+9.   NY Project based IT Consulting Services  
+10. OK: University of OK Annual IT Consulting and Consulting Services 
+11. PA: State of Pennsylvania Vendor Management System (VMS) by Compaid, Inc. 
+12. SC: Master Contract for the State of South Carolina 
+
+ 
+ Page 8 of 58 
+ 
+13. UT: Information Technology Consulting Services for DTS--DWS 
+14. VA: VA IT Contingent Labor contract vendor 
+15. WA: Washington State Department of Enterprise Services (DES) Information Technology: 
+Professional Services  
+16. MD: MHBE Information Technology: IDIQ Consulting & Technical Contract 
+5 Timeline 
+We follow internal Service Level Agreements (SLAs) for our recruitment process to 
+better serve our clients. We strive to meet below timelines and review performance 
+to improve the same: 
+ 
+innoSoul’s interaction with the customer is limited to what is agreed upon in the 
+contract. Our preferred mode of communication is either emails or phone calls. We 
+make sure that the staff that is authorized to discuss issues with the client is the 
+only one contacting with required information. Wherever required, we participate in 
+dialogue and/or training required to enhance our delivery and customer 
+satisfaction.  
+ 
+innoSoul believes in continuous improvement of our service levels and customer 
+satisfaction. It is not possible to improve something that is not measured. We 
+believe in maintaining all required status reports on our work with each customer 
+and review them periodically. It helps in understanding the level of service we are 
+providing to our customers and at the same time helps improve our performance. 
+ 
+We have been reporting to state agencies on our contracts. We will continue to 
+communicate promptly on various recruitment stages to various agencies as 
+outlined below:  
+- Response to email from client: within 8 business hours 
+- Response to phone calls from client: within 8 business hours 
+- Response to interview requests: within 8 business hours 
+- Monthly report to the state: by 10th of every month 
+ 
+On-boarding times; 
+Account managers interact with client representatives for interviews and 
+onboarding. The client interaction is limited to authorized users and all accepted 
+protocols are used to maintain confidentiality and integrity of the contract. We have 
+been providing following onboarding times to various state agencies on our current 
+contracts. We will continue to provide similar SLAs promptly on various on-boarding 
+stages to various agencies as outlined below:  
+- Scheduling interviews: 8 business hours 
+- Background verification initiation: 8 business hours 
+- Coordinating with the candidate for documents/signatures: 2 business days  
+- Signing PO or any other documents by vendor: 8 business hours 
+- Overall on-boarding process time: 5-10 business days (including background 
+verification) 
+Order Tracking communications  
+ 
+ Page 9 of 58 
+ 
+innoSoul, Inc. believes in timely invoicing along with signed timesheets from the 
+customer. We use cloud-based QuickBooks invoicing system from Intuit. We are an 
+authorized reseller of QuickBooks for Intuit along with service provider for various 
+clients. In the process, we honed in-house expertise in invoicing and accounting. 
+Our normal payment terms are Net30 but we can work with various clients on their 
+convenient terms. Our invoices are sent to the customer by email at the end of 
+each month with a PDF attachment of invoice, timesheets in addition to brief details 
+of invoice in the email. Our SLA for order tracking is to invoice the client within 5 
+business days after the end of the month.  
+Follow-up process and timeline. 
+innoSoul believes in continuous monitoring of resources working on client 
+assignment through periodic interventions. The process looks for any issues or 
+scope for issues and tries to address them immediately through counseling. Our 
+staff is experienced in identifying and resolving any issues. innoSoul keeps a 
+database of quality resources and it has been enhanced year after year. In an 
+adverse situation where a candidate fails to perform as per the customer’s 
+expectations and need to leave the project for reasons out of our control, the 
+candidate is replaced with no disruption in service. Our database of quality 
+candidates comes in handy in a quick replacement in adverse situations like this. 
+We will provide 2-week guarantee of our services and provide equivalent training or 
+knowledge transfer to client when we have to replace a candidate for performance 
+issue. We have been providing following response times to various state agencies 
+for many years on our current contracts. We will continue to provide similar SLAs 
+promptly to various agencies as outlined below:  
+- Response to email from client: within 8 business hours 
+- Response to phone calls from client: within 8 business hours 
+- Replacement of consultant: two weeks 
+6 Methodology  
+The Account Manager will coordinate and control various activities involved in 
+contract management and client fulfillment process. innoSoul uses standard based 
+systems approach where each process/activity is predefined and reviewed for 
+improvement periodically. The following process is used by innoSoul staff to fulfill 
+basic tasks related to the contract through this Solicitation. Candidates are sourced 
+and on boarded at client location with systematic step-by-step approach outlined 
+below:  
+ 
+ Page 10 of 58 
+ 
+ 
+ 
+InnoSoul uses new technologies and tools to make it an efficient and effective process. We utilize 
+internet-based technologies to improve the process and decrease the time it takes to implement the 
+process. We define SLAs for each step and review them for adherence. We use various technologies in 
+automating our recruitment process as shown in below diagram. We also use Virtual Walk-ins, Social 
+Hiring, User Groups administration, Referrals and ATS – Applicant Tracking System to track the process. 
+We will manage the client with the following principles:  
+ 
+ 
+ 
+Service Delivery 
+innoSoul has proven service delivery model in place where the staff follows 
+predefined processes in delivering results to customers. The process is well 
+documented and the staff is trained to follow the instructions to achieve best 
+results. The system helps in delivering quality resources to the customer.  
+ 
+Quality Assurance 
+
+ 
+ Page 11 of 58 
+ 
+The candidate selection process is streamlined over the years and candidates are 
+reviewed for their past performance. In addition, candidates are verified for their 
+past work performed by background checks. This ensures quality resources are 
+sourced every time.  
+ 
+Sales Management 
+innoSoul depends on in-house staff for core needs of various clients. We depend on 
+our vast sub-contractor network to fill positions that can’t be fulfilled from in-house 
+resources. The duty of coordinating with the subcontractors during the process of 
+implementation of the project is done by our contract manager. Our contract 
+manager and his staff are in constant touch with the sub-contractors and check 
+with them to see if they have any problems in servicing our clients and try to 
+resolve to the best of their efforts. Once a year our contract department arranges 
+an informal gathering before the holiday season for all of our sub-contractors. If the 
+temporary IT consultant is through a sub-contractor, we make sure that the IT 
+consultant is paid on time, as we emphasize it in our sub-contractor agreement in 
+which the sub-contractor agrees to pay the consultant by 5th of every month if he 
+pays his employees once every month or by 5th and 20th of every month if he pays 
+them twice a month. If our sub-contractor does not adhere to the contract and pays 
+his employee irregularly or does not pay at all, InnoSoul, Inc. has the right through 
+the sub-contracting agreement to take the consultant on our pay roll and pay 
+whatever money InnoSoul, Inc. owes to the sub-contractor directly to the IT 
+consultant to offset the money owed to him by the sub-contractor. 
+ 
+As we are currently serving various state agencies through existing contracts, we 
+have developed a network of sub-contractors with various specializations. We share 
+our requirements from state agencies on our website at www.innosoul.com/hotjobs 
+and all subcontractors get the job details automatically in their email inboxes. This 
+enables us to reduce the cycle time and improves efficiency of bringing candidates 
+to the state agency. The pool of sub-contractors is periodically monitored for SLAs 
+and changes are made as needed that helps improved fulfillment. We also have a 
+mailing list of sub-contractors, technology wise, and our recruiters circulate new 
+requirements with those vendors as soon as the requirement is notified by the 
+client. Jobs are also posted on social media (Facebook/LinkedIn/Twitter etc.) 
+without manual intervention using new technologies to reach out to target vendors 
+quickly. All these plans help innoSoul to be ahead of others in sourcing qualified 
+resources for state needs. 
+ 
+ 
+ 
+Order Processing  
+innoSoul uses cloud-based technologies for its clients and also for its own internal 
+use. We use Web 2.0 based web technologies to manage client requirements and 
+also for order processing. Once a requirement is received and till it is fulfilled, we 
+use in-house tools and technologies to make sure the customer is services 
+efficiently and effectively. We use WordPress Content Management System (CMS) 
+to capture customer requirements correctly and distributed to internal staff and 
+external partners. We follow 5-minute SLA to make sure the requirement is 
+ 
+ Page 12 of 58 
+ 
+distributed to all intended users (internal/external). The job is posted on our 
+website by emailing to a specific email address (post-by-email automation feature 
+of WordPress CMS) without actually going to the website. An email that includes all 
+job details is sent that posts jobs on our website and also on LinkedIn, Facebook, 
+Twitter etc. at the same time without separate effort. All subscribing partners will 
+also receive the same job details instantly in their email inbox. We also post the job 
+in various job portals (Dice, Monster. CareerBuilder, TechFetch, etc.). We use 
+Ceipal Applicant Tracking System (ATS) and that helps us further syndicate our jobs 
+across multiple free job portals.  
+ 
+Internal staff uses the collaborative online tool known as “Slack” to discuss and 
+work on requirements. Slack also gets an auto notification for each new job posting 
+and all users get to know details by information push in their slack channel. 
+Candidates can apply from any of the external channels where our job is posted. 
+Internal recruiters source candidates from various job portals and also work with 
+applications received through job portal applications. Our standard recruitment 
+process is followed to source, match and select candidates for our customers. Each 
+step of the way, new technologies and tools are used to make the process more 
+efficient and less prone to errors with self-healing software techniques.  
+ 
+Account managers interact with client representatives for interviews and 
+onboarding. Once a candidate is placed, invoicing and timesheet collection process 
+is triggered which also uses cloud-based technologies to make the process more 
+efficient. We use QuickBooks accounting software to invoice, track candidate hours 
+and billing. The client interaction is limited to authorized users and all accepted 
+protocols are used to maintain confidentiality and integrity of the contract.  
+ 
+innoSoul, Inc. believes in timely invoicing along with signed timesheets from the 
+customer. We use cloud-based QuickBooks invoicing system from Intuit. We are an 
+authorized reseller of QuickBooks for Intuit along with service provider for various 
+clients that resulted in in-house expertise in invoicing and accounting. Our normal 
+payment terms are Net30 but we can work with various clients on their convenient 
+terms. Our invoices are sent to the customer by email at the end of each month 
+with a PDF attachment of invoice in addition to brief details of invoice in the email. 
+ 
+Problem Management 
+innoSoul believes in continuous monitoring of resources working on client 
+assignment through periodic interventions. The process looks for any issues or 
+scope for issues and tries to address them immediately through counseling. Our 
+staff is experienced in identifying and resolving any issues.  
+ 
+Corrective Actions 
+innoSoul keeps a database of quality resources and it has been enhanced year after 
+year. In an adverse situation where a candidate fails to perform as per the 
+customer’s expectations and need to leave the project for reasons out of our 
+control, the candidate is replaced with no disruption in service. Our database of 
+quality candidates comes in handy in a quick replacement in adverse situations like 
+this. We will provide 2-week guarantee of our services and provide equivalent 
+ 
+ Page 13 of 58 
+ 
+training or knowledge transfer to client when we have to replace a candidate for 
+performance issue.  
+ 
+Customer Interaction 
+innoSoul’s interaction with the customer is limited to what is agreed upon in the 
+contract. Our preferred mode of communication is either emails or phone calls. We 
+make sure that the staff that is authorized to discuss issues with the client is the 
+only one contacting with required information. Wherever required, we participate in 
+dialogue and/or training required to enhance our delivery and customer 
+satisfaction.  
+ 
+Status Reporting  
+innoSoul believes in continuous improvement of our service levels and customer 
+satisfaction. It is not possible to improve something that is not measured. We 
+believe in maintaining all required status reports on our work with each customer 
+and review them periodically. This helps in understanding the level of service we 
+are providing to our customers and at the same time helps improve our 
+performance. 
+ 
+Training Plan 
+Our employees are sent for periodic training programs and also reimbursed fee in 
+full for any successful professional certifications. Our senior employees are 
+reimbursed in kind for mentoring our junior employees/ sub-contractor consultants. 
+innoSoul also provides incentives like profit sharing, bonus, training/certification 
+reimbursement etc. that makes our people to stay with us longer.  
+ 
+Confidentiality  
+innoSoul has a written policy for confidentiality, information security, non-
+discrimination, code of conduct, code of ethics, employee safety, etc. Our recruiting 
+staff working in-house and technical staff deployed on client sites are required to 
+review and sign such documents that protects client confidential information. We 
+also maintain high level of insurance coverage for unforeseen events that will 
+safeguard us and our clients. We conduct periodic sessions and/or communicate 
+about our policies and policy changes that influence client confidentiality. In more 
+than 17 years of service to various government agencies we did not have a single 
+incident of breach of confidentiality.  
+7 References 
+ 
+References:  
+Name of Your Firm: INNOSOUL, INC. 
+Name of Client: Minnesota IT Services | Partners in Performance with DHS, DCT, 
+DCYF & MNsure 
+Name of Client Contact Person: Furhath Arnob, Director | Shared Services 
+Client’s Phone Number: 651-431-3176 (Furhath.Arnob@state.mn.us) 
+Date or period of project/service: 05/15/2023 to 05/14/2026 
+ 
+ Page 14 of 58 
+ 
+Description of project/services rendered: 
+• Analyze, design, develop and implement complete life cycle of application development 
+environment to support business applications. 
+• Develop IBM WebSphere Transformation Extender (WTX) maps, typetrees. 
+• Utilize various Business Integration and Cloud computin g tools like: WebSphere Process Server 
+(WPS), WebSphere Application Server, WebSphere Service Registry and Repository, WebSphere 
+Integration Developer, WebSphere Business Modeler, WebSphere Business Monitor, Rational 
+ClearCase, Rational ClearQuest, IBM DB2 , Java, J2EE, SugarCRM, OrangeHRM, JBPM, and 
+OpenSource Technologies. 
+• Participate in multiple phases of project life cycle development including business process analysis 
+and requirements gathering, software design, development, testing, supporting modific ations and 
+enhancements to the database and program based on user specifications. 
+• Provide technical evaluation estimates on technology initiatives. 
+• Architect SCA components (Business Processes, Human Tasks, Business Rules, and Selectors) and 
+J2EE services. 
+• Develop performance tuning techniques both on the WebSphere Process Server Infrastructure and 
+IBM/WebSphere Integration Developer development workbench. 
+• Provide technical support and conduct user acceptance testing. 
+• Create training manuals and provide end user training. 
+ 
+Name of Your Firm: INNOSOUL, INC. 
+Name of Client: Minnesota IT Services | Partners in Performance with DHS, DCT, 
+DCYF & MNsure 
+Name of Client Contact Person: Karla Spencer-George  
+Client’s Phone Number: 651.238.5268  | Karla.Spencer-George@state.mn.us 
+Date or period of project/service: 05/15/2023 to 05/14/2026 
+Description of project/services rendered: 
+• Analyze, design, develop and implement complete life cycle of application development 
+environment to support business applications. 
+• Develop IBM WebSphere Transformation Extender (WTX) maps, typetrees. 
+• Utilize various Business Integration and Cloud computing tools like: WebSphere Process Server 
+(WPS), WebSphere Application Server, WebSphere Service Registry and Repository, WebSphere 
+Integration Developer, WebSphere Business Modeler, WebSphere Business Mo nitor, Rational 
+ClearCase, Rational ClearQuest, IBM DB2, Java, J2EE, SugarCRM, OrangeHRM, JBPM, and 
+OpenSource Technologies. 
+• Participate in multiple phases of project life cycle development including business process analysis 
+and requirements gathering, so ftware design, development, testing, supporting modifications and 
+enhancements to the database and program based on user specifications. 
+• Provide technical evaluation estimates on technology initiatives. 
+• Architect SCA components (Business Processes, Human Tasks, Business Rules, and Selectors) and 
+J2EE services.  
+• Develop performance tuning techniques both on the WebSphere Process Server Infrastructure and 
+IBM/WebSphere Integration Developer development workbench. 
+• Provide technical support and conduct user acceptance testing. 
+• Create training manuals and provide end user training. 
+ 
+ Page 15 of 58 
+ 
+ 
+Name of Your Firm: INNOSOUL, INC. 
+Name of Client: Minnesota IT Services | Partners in Performance with DHS, DCT, 
+DCYF & MNsure 
+Name of Client Contact Person: Deb Ferreira, MAS Blue  Supervisor | Java Application 
+Development Division 
+Client’s Phone Number: 952-463-5603, Deb.Ferreira@state.mn.us 
+Date or period of project/service: 1/1/25 - 12/31/2027 
+Description of project/services rendered: 
+• Install, configure, support and maintain IBM middleware products including, but not 
+• limited to: WebSphere Application Server Network Deploy, IBM Enterprise Service Bus, 
+• IBM HTTP Server, IBM Business Process Manager, WebSphere Transformation 
+• Extender, MQSeries, Oracle Web Logic Server and IBM Integration Bus. 
+• Provide experienced support and consultation for all of the following software packages: 
+• Engagepoint Audit, Engagepoint Notify, Engagepoint Content, Activevos, Connecture, 
+• Get Insured and Curam. 
+• Provide support and consultation for custom-developed state software solutions that 
+• integrate between COTS and legacy systems or otherwise support the METS systems 
+• and processes. 
+• Configuring and integrating Applications with Oracle IAM (Identity and Access 
+• Management) for Single Sign-on (SSO). 
+ 
+ 
+Contact Person Company Name & Address Period Performed/status Phone Number(s) 
+Barb Geiger  Department of Human Services, MN  Nov 17 – current / running on time 651-431-2117  
+ Phase 1: Prepare for installation 
+ Phase 2: Install primary Oracle Enterprise Management (OEM) Service 
+ Phase 3: Implement & document OEM security 
+ Phase 4: Configure Oracle Resource Management 
+ Phase 5: Final validation of OEM functionality 
+ 
+Contact Person Company Name & Address Period Performed/status Phone Number(s) 
+Bernie Finne  Department of Human Services, MN  Dec 16 – current / running on time 651-431-4065 
+A. Download/upload   code   updates   from/to   the   MN-DHS   code   repository   (SVN   - Subversion). 
+B.          Develop   the   WTX/WPS   application   code   and   integrate   to   business   rules   and specifications. 
+C.          Assist in the identification and correction of software defects and inefficiencies. D.          Produce and run test 
+scripts to ensure deployments are working. E. Work with testers and subject matter experts to identify code and 
+deployment issues. F. Utilize log entries to identify problem areas. 
+G.          Identify and recommend specific code changes to MN-DHS staff. 
+Contact Person Company Name & Address Period Performed Phone Number(s) 
+Karla Spencer  MN Dept of Human Services, 540 Cedar St, St. Paul MN  2020 – present 651.238.5268 
+innoSoul, Inc. implemented IBM integration project: Architectural design and training for WPS/WESB applications with 
+Informix under The IT Professional Technical Services Master Contract Program (MCP) - 902TS. Successfully running 
+ 
+ Page 16 of 58 
+ 
+ 
+ 
+8 General Company Information. 
+Evidence of Customer Satisfaction 
+innoSoul, Inc. has consistently maintained high client satisfaction rates through its 
+structured processes, quality assurance measures, and responsive customer interaction 
+policies. Key performance highlights include: 
+ Retention Rate: Over the past three years, innoSoul’s retention rate has exceeded 90%, 
+reflecting the reliability and effectiveness of placements in both public and private sectors. 
+ Survey & References:  The company actively maintains detai led customer feedback 
+surveys and references. This includes performance reviews gathered periodically to assess 
+alignment with project goals and client expectations. For example:  
+o Reference contacts are regularly updated, with feedback mechanisms establish ed 
+to evaluate satisfaction levels. 
+o These references are used to monitor the quality of resources provided, ensuring 
+proactive adjustments where needed. 
+ Vendor Performance Ratings:  innoSoul employs an internal performance monitoring 
+system that reviews con sultant contributions and evaluates them based on technical 
+expertise, productivity, and adaptability. This system ensures that vendor performance is 
+consistently in line with client requirements. 
+Approach Example: 
+ Highlight how innoSoul’s  feedback loops and proactive measures contribute to high 
+customer satisfaction. For example:  
+o Feedback is consistently used to refine sourcing methodologies and onboarding 
+processes. 
+o Performance ratings help identify gaps early, enabling tailored solutions. 
+9 Company History 
+Founded in 2003 in Nevada, innoSoul, Inc. has become a leading provider of IT consulting and consulting 
+services for both the public and private sectors. Over the years, the company has gained expertise in the 
+entire IT consulting life cycle, delivering end-to-end solutions with a focus on planning, account 
+management, and change management.  
+ 
+innoSoul has successfully served various government agencies, including state agencies across New 
+York, Texas, North Carolina, South Carolina, and Minnesota. The company’s client portfolio also includes 
+well-known private entities like JPM Chase, Cigna, Honda, and eBay. Its offerings span a wide 
+technological landscape, including Oracle, SAP, Java, Cloud, and Networking solutions.  
+ 
+As an IBM Partner specializing in Service-Oriented Architecture (SOA), innoSoul has built a strong 
+reputation for addressing client needs through innovative practices, cost optimization, and highly skilled 
+resources. With a focus on sustainability, agility, and client satisfaction, innoSoul has firmly established 
+itself as a trusted partner in the industry. 
+ 
+ 
+ Page 17 of 58 
+ 
+10 Company’s Growth 
+ 
+1. Revenue and Business Expansion: 
+o innoSoul, Inc. has experienced steady growth in revenue through increased client 
+acquisitions across both public and private sectors. (around 10% each year). 
+o Expansion into additional state contracts, such as Texas, Michigan, North Carolina, 
+and South Carolina, has significantly bolstered the company’s footprint. 
+2. Client Base and Engagements: 
+o Over the past three years, in noSoul successfully secured and delivered on major 
+projects with high-profile clients, including government agencies like NY, TX, and 
+MN. 
+o Retention of long -term clients ( 100% retention rate) has contributed to repeat 
+business and referrals, sustaining revenue growth. 
+3. Workforce Scaling: 
+o The internal team has grown by more than 25%, reflecting the company's ability to 
+onboard skilled professionals and meet increasing client demands. 
+o Enhanced recruiter networks and investments in automation tools like CEIPAL 
+ATS have improved efficiency in sourcing and deploying high-quality resources. 
+4. Technological Advancements: 
+o Continued investments in IT infrastructure and recruitment technologies (e.g., 
+automated job postings, social hiring) have optimized operations, reduc ing 
+placement times by up to 30%. 
+5. Industry Recognition: 
+o innoSoul's consistent delivery of quality services has earned accolades and 
+recognition from several state agencies and private sector entities, showcasing the 
+company's growing reputation and credibility. 
+ 
+1. What separates your company from others and elaborate on what makes your 
+company well suited to excel in this portfolio should a contract be awarded? 
+ 
+11 Company Unique Differentiators  
+1. Proven Track Record 
+o innoSoul has consistently delivered high -quality IT consulting solutions since its 
+founding in 2003. The company’s extensive experience with state agencies across 
+the U.S., including NY, TX, NC, SC, and MN, showcases its reliability and 
+expertise in the public sector. 
+o With over 90% retention rates and zero candidate backouts in the last three years, 
+innoSoul guarantees stability and seamless integration of resources. 
+2. Technological Edge 
+o Utilization of innovative recruitment tools such as CEIPAL Applicant Tracking 
+System (ATS) ensures efficiency in matching candidates to client requirements. 
+ 
+ Page 18 of 58 
+ 
+o Automation features like virtual walk-ins, social hiring, and job syndication across 
+platforms enable faster sourcing and wider reach to qualified professionals. 
+3. Commitment to Quality and Compliance 
+o Robust screening processes include competency -based assessments, multi -level 
+interviews, background checks, and certifications validation. 
+o Adherence to regulatory standards like ISO 2700X and NIST ensures secure and 
+reliable service delivery. 
+4. Scalability and Flexibility 
+o A strong network of subcontractors and satellite offices enables innoSoul to handle 
+large-scale consulting needs while tailoring solutions to client -specific 
+requirements. 
+o The company’s lean organizational structure ensur es quick decision -making and 
+adaptability to project demands. 
+5. Client-Centric Approach 
+o Proactive communication channels, real-time reporting, and transparent processes 
+align innoSoul’s services with client objectives. 
+o Dedicated Account Managers and Service Level Agreements (SLAs) ensure 
+prompt response times and effective conflict resolution. 
+6. Recognition and Partnerships 
+o Long-standing partnerships with IBM and numerous accolades underscore 
+innoSoul’s leadership in IT consulting and consulting. 
+o Collaboration with other woman/minority -owned organizations reflects its 
+commitment to diversity and community engagement. 
+ 
+11.1 Why innoSoul Will Excel in This Portfolio  
+ Strategic Fit: innoSoul’s experience in providing IT consulting solutions for state agencies 
+mirrors the requirements of the contract, ensuring alignment with project goals and 
+seamless execution. 
+ Efficiency: Streamlined processes and automation minimize onboarding times, reduce 
+costs, and ensure timely resource delivery. 
+ Risk Management:  Proactive monitoring, issue mitigation, and quick replacement 
+guarantees ensure uninterrupted service. 
+ Continuous Improvement:  Lessons learned from previous engagements are 
+systematically applied to improve client outcomes and operational efficiency. 
+ 
+ 
+Unique Differences in Experience, Skills, and Qualifications 
+1. Extensive Public Sector Expertise:  
+o innoSoul Inc. has over two decades of experience supporting procurement 
+lifecycle functions for state and local agencies, including solicitation 
+development, contract closeout, vendor performance evaluations, and compliance 
+management. 
+ 
+ Page 19 of 58 
+ 
+o Past engagements with agencies like NY, TX, and NC involved specialized 
+procurement subject matter experts ensuring alignment with State and Federal 
+regulations. 
+2. Methodology for Procurement Efficiency:  
+o Proven systems and workflows streamline market research, cost analysis, and 
+vendor selection processes. 
+o Emphasis on risk mitigation strategies ensures procurement is smooth and 
+compliant throughout the lifecycle. 
+3. Technical Tools and Systems:  
+o Leveraging tools such as CEIPAL ATS for managing procurement processes 
+efficiently. 
+o Integration of real-time reporting capabilities and robust evaluation frameworks. 
+ 
+4. Specialized IT Knowledge:  
+o innoSoul’s IT consultants hold advanced degrees and certifications in key 
+technologies such as Oracle, SAP, Microsoft, Java, and Cloud Computing. 
+o The company has successfully implemented IT strategy solutions across diverse 
+platforms and verticals, including government programs, healthcare, and financial 
+services. 
+5. Innovative Approaches:  
+o Utilization of modern automation and collaboration tools like Slack and CEIPAL 
+ensures efficient communication and resource allocation. 
+o Expertise in IT advisory methodologies that enable clients to optimize systems 
+and achieve operational efficiency. 
+6. Tailored Consulting Solutions:  
+o Track record of delivering strategic IT roadmaps tailored to client environments. 
+o Ensuring cost-effective, secure, and scalable IT solutions. 
+ 
+11.2 Integrated Strengths Across Both Categories:  
+ Robust quality assurance protocols, including background checks and skills verification, 
+apply to all services provided. 
+ Proven ability to deliver seamless integration of IT and procurement expertise ensures 
+continuity and excellence across both categories. 
+ 
+12 Company Capabilities 
+ 
+1. Market Research and Analysis   
+o Example: In collaboration with the State of Minnesota, innoSoul conducted in-depth 
+market research for IT consulting and procurement. This included supplier evaluations, 
+trend analysis, and cost estimation to align with state budget constraints. 
+2. Solicitation Development: 
+o Example: For the Texas Education Agency, innoSoul developed Requests for Proposals 
+(RFPs), ensuring compliance with procurement regulations and delivering clear, concise 
+solicitation documents tailored to agency requirements. 
+ 
+ Page 20 of 58 
+ 
+3. Proposal Evaluation: 
+o Example: Assisted the New York State Division of Criminal Justice in assessing vendor 
+proposals using a scoring matrix that evaluated financial, technical, and operational 
+criteria to select optimal vendors. 
+4. Vendor Contract Negotiation and Award: 
+o Example: InnoSoul supported contract negotiation and vendor onboarding for North 
+Carolina state agencies, aligning agreements with state procurement standards and 
+operational goals. 
+5. Contract Development and Administration: 
+o Example: Managed multi-year contracts for IT services in South Carolina, ensuring 
+compliance, tracking vendor performance, and addressing contract amendments. 
+6. Vendor Performance Monitoring and Evaluation: 
+o Example: Supported the State of Michigan by setting up frameworks to measure vendor 
+KPIs through regular audits and customer feedback. 
+7. Procurement Compliance Auditing: 
+o Example: Conducted compliance audits for Mississippi’s procurement activities, 
+providing detailed reports to ensure adherence to federal guidelines. 
+8. Procurement Training and Education: 
+o Example: Delivered workshops on procurement best practices for staff at various 
+agencies in Utah, focusing on cost optimization and vendor evaluation. 
+9. Procurement Closeout Procedures: 
+o Example: Assisted the State of Virginia with vendor and contract closeout processes, 
+ensuring all deliverables were met and proper documentation completed. 
+10. Risk Assessment and Mitigation: 
+o Example: Developed risk mitigation plans for South Carolina state agencies, minimizing 
+disruptions during procurement cycles. 
+11. Data Analytics and Reporting: 
+o Example: Provided real-time reporting dashboards for North Carolina state agencies, 
+enabling streamlined tracking of procurement activities. 
+ 
+ 
+Customer/client name Department of Human Services, MN 
+Government (Y/N) Y 
+Customer Organization Size 7000+ employees 
+Service Start Date/End Date 2020 – present 
+Contract Amount $768750 
+Reference name Karla Spencer-George 
+Title Systems Supervisor 
+Phone number 651.238.5268 
+Mailing address 540 Cedar Street, Saint Paul, MN 
+55155 Email Address Karla.Spencer-George@state.mn.us 
+Service Description Data Analytics and Reporting services 
+ 
+ 
+Customer/client name Paul Mitchell The School, FL 
+Government (Y/N) N 
+Customer Organization Size 100+ 
+Service Start Date/End Date 2023-present 
+ 
+ Page 21 of 58 
+ 
+Contract Amount $100,000 
+Reference name Giuseppe Veglio 
+Title General Manager 
+Phone number 518-370-4590 
+ Mailing address 8000 W Broward Blvd #1101, 
+Plantation, FL 33388 Email Address gveglio@schenectady.paulmitchell.ed
+u Service Description Risk Assessment and mitigation 
+services  
+ 
+Examples of Work Performed: 
+1. IT Strategy Development: 
+o Example: Collaborated with the Minnesota Department of Human Services to design a 
+strategic roadmap for integrating IBM WebSphere applications. 
+2. Architectural Design and Implementation: 
+o Example: Developed architectural frameworks for Michigan’s IT consulting needs, 
+ensuring scalable solutions aligned with state priorities. 
+3. System Optimization and Migration: 
+o Example: Migrated the Texas Department of Education’s legacy systems to cloud-based 
+environments, improving operational efficiency. 
+4. Compliance and Security Advisory: 
+o Example: Supported the State of Washington by ensuring IT systems adhered to NIST 
+guidelines and ISO 2700X compliance standards. 
+5. Vendor Evaluation and Selection: 
+o Example: Conducted technical evaluations for California state agencies, ensuring 
+vendors’ IT solutions met the highest quality standards. 
+6. IT Process Improvement: 
+o Example: Delivered process improvement strategies for Oracle ERP implementations 
+across North Carolina agencies, reducing costs and enhancing functionality. 
+ 
+Contact Person Company Name & Address Period Performed/status Phone Number(s) 
+Barb Geiger  Department of Human Services, MN  Nov 17 – current / running on time 651-431-2117  
+ Phase 1: Prepare for installation 
+ Phase 2: Install primary Oracle Enterprise Management (OEM) Service 
+ Phase 3: Implement & document OEM security 
+ Phase 4: Configure Oracle Resource Management 
+ Phase 5: Final validation of OEM functionality 
+ 
+ 
+Contact Person Company Name & Address Period Performed/status Phone Number(s) 
+Bernie Finne  Department of Human Services, MN  Dec 16 – current / running on time 651-431-4065 
+Contact Person Company Name & Address Period Performed Phone Number(s) 
+Joel W Hooker  MN Dept of Human Services, 540 Cedar St, St. Paul MN  Sep 2011 – Jan 2012 651-431-3230 
+innoSoul, Inc. implemented IBM integration project: Architectural design and training for WPS/WESB applications with 
+Informix under The IT Professional Technical Services Master Contract Program (MCP) - 902TS. Successfully completed 
+ 
+ Page 22 of 58 
+ 
+A. Download/upload   code   updates   from/to   the   MN-DHS   code   repository   (SVN   - Subversion). 
+B.          Develop   the   WTX/WPS   application   code   and   integrate   to   business   rules   and specifications. 
+C.          Assist in the identification and correction of software defects and inefficiencies. D.          Produce and run test 
+scripts to ensure deployments are working. E. Work with testers and subject matter experts to identify code and 
+deployment issues. F. Utilize log entries to identify problem areas. 
+G.          Identify and recommend specific code changes to MN-DHS staff. 
+ 
+ 
+Contact Person Company Name & Address Period Performed/status Phone Number(s) 
+Andrew Kramer  WA DOL, 2424 Bristol Court SE, Olympia, 
+Washington 98507 (DRIVERS project)  
+Sep 2016 – Jun 2017  
+Successfully completed  
+(360) 664-6686 
+ Facilitate and lead the analysis and documentation of functional and non-functional business requirements including: the 
+preparation and confirmation of business rules; the analysis of current and proposed business processes, business models 
+and requirements statements. Documenting requirements so they are understandable by business and technical experts. 
+ Documenting scope, business requirements and system requirements for COTS products. 
+ Perform gap analysis using business process diagrams, data models, and requirements. 
+ Negotiating and bringing groups to consensus or resolution concerning areas of conflict or ambiguity. 
+ Assembling information from a variety of sources to recognize business relevant connections and missing pieces. 
+ Develop and execute complex test scripts. Manage scope as it pertains to areas of responsibility. Identify and document risks, 
+opportunities and efficiencies related to assigned work. Manage time well to meet assigned milestones 
+ 
+a. NC 
+ Entity name: State of NC   
+ Entity address: 79 TW Alexander Dr. Durham, NC 274709 
+ Contract number/purchase order number assigned by the Entity: 
+ITS-009440 
+ Original Term of the Contract/purchase order: 2016-2024 
+ Contract/purchase order Start Date: Mar-2016 
+ Duration of each contract/purchase order (time  to complete the 
+work): 8 years 
+ Total or approximate dollar amount contracted or received: $12+ 
+million 
+ The number of Staff assigned for the Contract or purchase order: 
+45  
+ Type of tasks performed by assigned Staff: BA/QA/PM/Software 
+Developer  
+ Stipulate if you were the primary contractor or hired as a 
+subcontractor by the prime and list name of prime: Primary 
+Contractor  
+ 
+b. SC 
+ Entity name: State of SC   
+ Entity address: 1201 Main Street, #601 Columbia SC 29201 
+ Contract number/purchase order number assigned by the Entity: 
+5400008056 
+ Original Term of the Contract/purchase order: 2016-2024 
+ 
+ Page 23 of 58 
+ 
+ Contract/purchase order Start Date: July-2018 
+ Duration of each contract/purchase order (time  to complete the 
+work): 8 years 
+ Total or approximate dollar amount contracted or received: $8+ 
+million 
+ The number of Staff assigned for the Contract or purchase order: 
+25 
+ Type of tasks performed by assigned Staff: BA/QA/PM/Software 
+Developer 
+ Stipulate if you were the primary contractor or hired as a 
+subcontractor by the prime and list name of prime: Primary 
+Contractor  
+ 
+c. TX 
+ Entity name: State of TX   
+ Entity address: 300 W 15th St #1300, Austin, TX 78701 
+ Contract number/purchase order number assigned by the Entity: 
+ITSAC_445 
+ Original Term of the Contract/purchase order: 2016-2018, 2018-20, 
+2020-22, 2022-24 
+ Contract/purchase order Start Date: Aug-2016 
+ Duration of each contract/purchase order (time  to complete the 
+work): 7 years so far out of 8 years contract (2016-2024) 
+ Total or approximate dollar amount contracted or received: $5+ 
+million 
+ The number of Staff assigned for the Contract or purchase order: 
+20 
+ Type of tasks performed by assigned Staff: BA/QA/PM/Software 
+Developer 
+ Stipulate if you were the primary contractor or hired as a 
+subcontractor by the prime and list name of prime: Primary 
+Contractor  
+ 
+d. MN 
+ Entity name: State of MN   
+ Entity address: 50 Sherburne Ave, St Paul, MN 55155 
+ Contract number/purchase order number assigned by the Entity: 
+MNSITE (T-18ASK) 
+ Original Term of the Contract/purchase order: 2018-23 (earlier 
+contract 2014-18) 
+ Contract/purchase order Start Date: Feb-2018 
+ Duration of each contract/purchase order (time  to complete the 
+work): 5 years (4 years in earlier contract) 
+ Total or approximate dollar amount contracted or received: $3+ 
+million 
+ 
+ Page 24 of 58 
+ 
+ The number of Staff assigned for the Contract or purchase order: 8 
+ Type of tasks performed by assigned Staff: BA/QA/PM/Software 
+Developer  
+ Stipulate if you were the primary contractor or hired as a 
+subcontractor by the prime and list name of prime: Primary 
+Contractor  
+ 
+e. WA 
+ Entity name: State of WA   
+ Entity address: 1500 Jefferson St SE, Olympia, WA 98501 
+ Contract number/purchase order number assigned by the Entity: 
+ITPS Master Program Agreement 08215 
+ Original Term of the Contract/purchase order: 2016-24  
+ Contract/purchase order Start Date: Jan-2016 
+ Duration of each contract/purchase order (time  to complete the 
+work): 8 years   
+ Total or approximate dollar amount contracted or received: $1 
+million approximately  
+ The number of Staff assigned for the Contract or purchase order: 4 
+ Type of tasks performed by assigned Staff: BA/QA/Software 
+Developer 
+ Stipulate if you were the primary contractor or hired as a 
+subcontractor by the prime and list name of prime: Primary 
+Contractor 
+f. FL 
+ Entity name: State of FL   
+ Entity address: 4050 Esplanade Way, Suite 280 Tallahassee, 
+Florida 32399 
+ Contract number/purchase order number assigned by the Entity: 
+80101507-SA-21-1 
+ Original Term of the Contract/purchase order: 2024-27 (earlier 
+2020-23, 2016-18, 2018-20) 
+ Contract/purchase order Start Date: Oct-2018 
+ Duration of each contract/purchase order (time  to complete the 
+work): 5 years  (2+3 years) 
+ Total or approximate dollar amount contracted or received: $200k 
+approximately  
+ The number of Staff assigned for the Contract or purchase order: 3 
+ Type of tasks performed by assigned Staff: Software Developer 
+and DBA 
+ Stipulate if you were the primary contractor or hired as a 
+subcontractor by the prime and list name of prime: Primary 
+Contractor 
+ 
+g. MD 
+ 
+ Page 25 of 58 
+ 
+ Entity name: State of Maryland Health Benefit Exchange  
+ Entity address: 750 E Pratt St, Baltimore, MD 21202 
+ Contract number/purchase order number assigned by the Entity: 
+MDM0031020679 and Indefinite Delivery, Indefinite Quantity (IDIQ) 
+SOLICITATION NO.: BPM031490 
+ Original Term of the Contract/purchase order: 2015-17 and 2023-
+2026 (with two extra years option) 
+ Contract/purchase order Start Date: June-2015 
+ Duration of each contract/purchase order (time  to complete the 
+work): 2 years  
+ Total or approximate dollar amount contracted or received: $479,360 
+ The number of Staff assigned for the Contract or purchase order: 1 
+ Type of tasks performed by assigned Staff: Software Developer 
+ Stipulate if you were the primary contractor or hired as a 
+subcontractor by the prime and list name of prime: Primary 
+Contractor 
+ 
+h. NY 
+ Entity name: State of New York 
+ Entity address: 5, 1220 Washington Ave, Albany, NY 12226 
+ Contract number/purchase order number assigned by the Entity: 
+HBITS 
+ Original Term of the Contract/purchase order: 5 years  
+ Contract/purchase order Start Date: Jan-2019 
+ Duration of each contract/purchase order (time  to complete the 
+work): 5 years  
+ Total or approximate dollar amount contracted or received: $678,940 
+ The number of Staff assigned for the Contract or purchase order: 1 
+ Type of tasks performed by assigned Staff: Software Developer 
+ Stipulate if you were the primary contractor or hired as a 
+subcontractor by the prime and list name of prime: Sub Contractor 
+ 
+i. UT/MS 
+ Entity name: State of UT and MS 
+ Entity address: 9800 Crosspoint Boulevard Indianapolis, IN 46256 
+ Contract number/purchase order number assigned by the Entity: 
+Knowledge Services MSP 
+ Original Term of the Contract/purchase order: 5+5 years (2016-21, 
+2021-26) 
+ Contract/purchase order Start Date: Sep-2016 
+ Duration of each contract/purchase order (time  to complete the 
+work): 5 years  
+ Total or approximate dollar amount contracted or received: $1 
+million approximately  
+ The number of Staff assigned for the Contract or purchase order: 6 
+ 
+ Page 26 of 58 
+ 
+ Type of tasks performed by assigned Staff: BA/QA/PM/Software 
+Developer 
+ Stipulate if you were the primary contractor or hired as a 
+subcontractor by the prime and list name of prime: Primary 
+Contractor 
+ 
+ 
+13 Company Service Assurance. 
+1. Quality Assurance Measures 
+ Streamlined Candidate Selection Process: 
+InnoSoul employs a rigorous, multi-step candidate review that includes:  
+o Competency-based assessments. 
+o Multi-level technical and behavioral interviews. 
+o Thorough background checks and validation of certifications. 
+ Continuous Monitoring: 
+Candidate performance is periodically reviewed through client feedback, performance 
+evaluations, and counseling to ensure alignment with objectives. 
+ Issue Resolution: 
+In the event of performance issues, innoSoul provides prompt replacement with no 
+disruption to service delivery. 
+ Technology Integration: 
+Automation tools such as CEIPAL ATS ensure accuracy and consistency across 
+recruitment and onboarding processes. 
+ 
+2. Customer Service Offerings 
+ Availability of Key Personnel:  
+o Dedicated Account Managers act as single points of contact and are available 
+through email, phone, or in person, responding to client queries within 8 business 
+hours. 
+o Flexible schedules ensure accessibility for urgent issues and meetings. 
+ Help Desk Services:  
+o Cloud-based ticketing systems enable real-time issue tracking and resolution. 
+o Support teams are equipped to provide technical assistance, contract management, 
+and candidate onboarding guidance. 
+ 
+3. Customer Satisfaction Assessment 
+ Feedback Mechanisms:  
+o Regular customer satisfaction surveys and formal feedback loops ensure actionable 
+insights into service quality. 
+ Performance Metrics:  
+o SLAs and KPIs (e.g., candidate onboarding times, fulfillment rates, and retention 
+metrics) are measured and reported regularly. 
+ 
+ Page 27 of 58 
+ 
+ Client Retention Tracking:  
+o Historical data shows a retention rate of over 90% for the past three years, 
+reinforcing the effectiveness of service delivery. 
+ 
+4. Customer Website Capabilities 
+ Responsive Web 2.0 Design:  
+o The website enables:  
+ Access to contract details. 
+ Submission of candidate profiles. 
+ Real-time updates for job postings and order status. 
+ Automation Features:  
+o Posting and syndication of job requirements across platforms such as LinkedIn, 
+Facebook, and job boards without manual intervention. 
+ Subscription Service:  
+o Vendors and candidates can subscribe to receive job notifications directly via email. 
+ 
+5. Ordering Process and Methods 
+ Online Order Submission:  
+o InnoSoul uses CEIPAL ATS  and QuickBooks Cloud  for seamless order 
+management and tracking. 
+o Requirements are received through email or client portals and distributed 
+automatically to recruiters and partners. 
+ Order Tracking:  
+o Slack is used for real -time communication among internal teams to ensure quick  
+execution. 
+o Clients receive progress updates, and orders are monitored until completion. 
+ Placement and Invoicing:  
+o Once a candidate is onboarded, timesheets and invoices are managed using 
+QuickBooks, ensuring timely payment and transparency. 
+ 
+6. Decentralized System of Order Submission 
+ Multi-State Operations:  
+o InnoSoul operates with satellite offices across the U.S. and leverages its network of 
+over 2,750 partners. 
+o A decentralized approach allows for simultaneous fulfillment of orders across 
+multiple states while maintaining SLA adherence. 
+ Real-Time Collaboration:  
+o Automated notifications and cloud-based tools ensure efficient coordination among 
+all stakeholders. 
+o Dedicated account managers oversee compliance and quality across locations. 
+ 
+A. Any other information your company feels is relevant and shows how it can excel at 
+meeting/exceeding the scope of work requirements. 
+Here’s a concise and focused response that highlights key points and reinforces 
+ 
+ Page 28 of 58 
+ 
+innoSoul's ability to excel in meeting or exceeding the scope of work requirements: 
+ 
+Additional Information Highlighting innoSoul’s Excellence 
+1. Technology-Driven Solutions: 
+o InnoSoul, Inc. leverages advanced tools and technologies, such as CEIPAL ATS, 
+automation for social hiring, and collaboration tools like Slack, to deliver timely, 
+accurate, and efficient consulting solutions. 
+o Automated systems for job syndication, candidate tracki ng, and order processing 
+reduce cycle times, ensuring that resources are deployed quickly to meet client 
+needs. 
+2. Proven Track Record in Public Sector Consulting: 
+o With over two decades of experience serving state and local government agencies 
+across the U.S., innoSoul has developed specialized knowledge of compliance, 
+procurement, and consulting requirements unique to public sector clients. 
+o Ongoing contracts with st ate agencies in NC, TX, NY, and MN demonstrate 
+innoSoul’s reliability and capability to manage complex, large-scale engagements. 
+3. Sustainability and Diversity Commitment: 
+o As a woman-owned business, innoSoul actively encourages partnerships with other 
+woman- and minority-owned organizations, fostering inclusivity and diversity in 
+service delivery. 
+o Commitment to environmental sustainability is reflected in efficient use of cloud -
+based technologies to minimize paper-based processes. 
+4. Comprehensive Quality Assurance Processes: 
+o InnoSoul ensures quality through rigorous candidate screening, competency-based 
+assessments, and robust performance monitoring mechanisms. 
+o Periodic reviews and client feedback loops drive continuous improvement in 
+service delivery. 
+5. Scalability and Agility: 
+o With a network of over 2,750 subcontractor partners and satellite offices 
+nationwide, innoSoul is uniquely positioned to scale services rapidly to meet multi-
+state demands. 
+o A flat organizational structure enables quick decision -making, whil e cross -
+functional teams ensure adaptability to project-specific challenges. 
+6. Exceptional Customer-Centric Approach: 
+o InnoSoul prioritizes clear communication through dedicated account managers and 
+prompt response times (e.g., 8 business hours for email/phone inquiries). 
+o Help desk support and real -time reporting provide clients with transparency and 
+confidence in the engagement process. 
+7. Risk Mitigation and Continuity Planning: 
+o A database of pre -vetted candidates ensures rapid replacements if performance 
+issues arise, minimizing disruption to project timelines. 
+o Lessons learned from past engagements are systematically applied to refine 
+approaches and mitigate risks proactively. 
+ 
+ Page 29 of 58 
+ 
+ 
+ 
+Unique Differences in Ability to Meet the Scope of Work 
+ 
+1. Public Sector Procurement Expertise: 
+o Proven track record working with state agencies across NY, TX, NC, SC, and MN 
+in procurement lifecycle tasks. 
+o Familiarity with compliance regulations, contract development, and vendor 
+evaluations tailored to government needs. 
+2. Methodology Excellence: 
+o Utilization of structured procurement frameworks to streamline market analysis, 
+cost estimation, solicitation development, and award processes. 
+o Integration of tools like CEIPAL ATS for efficient vendor management and 
+performance tracking. 
+3. Scalable Resource Deployment: 
+o InnoSoul’s network of over 2,750 partners ensures flexibility in fulfilling large-
+scale procurement needs. 
+ 
+4. Technological Expertise: 
+o Deep knowledge in IT strategy, architectural frameworks, and advanced 
+technologies, including Oracle, SAP, Microsoft, Java, and Cloud Computing. 
+o Successfully executed IT advisory engagements in both public and private sectors 
+(e.g., IBM integration projects for MN’s Department of Human Services). 
+5. Innovative Solutions: 
+o Use of collaboration tools like Slack and social hiring automation to enhance 
+efficiency in research and consulting efforts. 
+o Tailored IT roadmaps for clients, ensuring scalable, cost-effective, and secure 
+solutions. 
+6. Compliance and Security: 
+o Expertise in meeting regulatory standards like ISO 2700X and NIST guidelines 
+ensures secure and reliable IT systems consulting. 
+ 
+Integrated Strengths  
+ Quality Assurance: Rigorous screening and performance evaluations align resource 
+capabilities with client goals. 
+ Risk Management: Proactive monitoring and rapid candidate replacement processes 
+minimize disruptions in service delivery. 
+ Customer-Centric Approach: Transparent communication and real-time reporting 
+foster trust and collaboration in both procurement and IT advisory roles. 
+ 
+14 MANAGEMENT CAPABILITY   
+Key Personnel 
+ 
+ Page 30 of 58 
+ 
+ 
+Rashi Shamshabad – Contract Manager 
+Experience: 
+With 20 years in the computer industry and 17 years in managing government projects, 
+Rashi serves as the cornerstone for account and contract management. 
+ 
+Role: 
+As the President of innoSoul, Inc., Rashi assumes ultimate decision -making authority, 
+ensuring seamless client communication and contract execution. 
+ 
+Notable Skills:  
+Extensive public sector experience across 17 states, including NC, SC, NY, and MN. 
+Proven expertise in implementing cost -efficient outsourcing solutions to deliver business 
+value. 
+Adept at navigating multicultural business environments, thanks to her participation in 
+international business forums. 
+ 
+Recognition & Leadership:  
+Rashi has received  numerous accolades for her contributions to IT and government 
+services. 
+Her leadership and negotiation skills ensure alignment with client goals and resource 
+delivery. 
+ 
+Shashi Kanth – Account Manager 
+Experience: 
+With 18 years in the computer industry and 13 years in leading government engagements, 
+Shashikanth specializes in enterprise application integration and service -oriented 
+architecture (SOA). 
+Role: 
+As Account Manager, he ensures smooth execution of project deliverables and acts as the 
+primary liaison for resolving any contract-related issues. 
+ 
+Notable Skills:  
+Expertise in integrating ERP systems (SAP and Oracle) and other backend services. 
+Extensive experience with public sector projects across NY, VA, MN, and MD. 
+Adept in utilizing cutting-edge tools and methodologies to drive efficiency. 
+ 
+Recognition & Leadership:  
+Numerous awards for outstanding performance in IT and business integration. 
+Strong project management abilities, with a focus on achieving client success. 
+ 
+Organizational Structure to Support Key Personnel 
+Flat Organizational Model: 
+InnoSoul employs a cross-functional, startup-inspired structure that fosters collaboration 
+and rapid decision-making. 
+ 
+ 
+ Page 31 of 58 
+ 
+Support Team: 
+Dedicated recruiters, HR executives, finance managers, and administrative assistants 
+work under the guidance of key personnel to ensure the contract’s success. 
+ 
+Tools & Technology: 
+Tools like CEIPAL ATS and Slack enhance communication, while QuickBooks ensures 
+seamless invoicing and financial management. 
+ 
+Rashi Shamshabad – Contract Manager 
+Acts as the ultimate decision -maker and primary client contact for relationship 
+management and strategic oversight. 
+Responsible for ensuring compliance, quality control, and smooth execution of contract 
+deliverables. 
+ 
+a. Writing/Technical Background: 
+20 years of experience in IT, including managing Human Resources Development and 
+Marketing for government agencies. 
+Proficient in utilizing business productivity applications like Microsoft Office and internet 
+tools for structured documentation and contract management. 
+ 
+b. Specific Training Attended to Increase Technical Knowledge: 
+Certification course in Microsoft Technologies from Aptech, India. 
+Completed a business management program at Dartmouth College, Hanover NH. 
+Various Human Resources and Marketing training sessions. 
+ 
+c. Record for Meeting Timelines and Accuracy of Time Estimates: 
+Successfully managed contracts for over 17 state agencies, ensuring prompt service 
+delivery and adherence to SLAs. 
+Demonstrates exceptional multi -tasking abilitie s and consistently meets deadlines for 
+resource onboarding, negotiation, and reporting. 
+ 
+Experience Summary: 
+Ms. Rashi offers over 20 years of experience in the computer industry including 13 years in the specialized 
+areas of Human Resources Development and Marketing. She is an experienced Manager and people person 
+to implement Business Solutions.  She is known as a leader around many facets of Business Circles. From a 
+strong family business background and working as a Marketing Executive for various companies at the early 
+stage of her career, Rashi was exposed to and began providing solutions with a confidence. 
+ 
+Focus: 
+Ms. Rashi provides real life experience in providing Business Solutions to add value to her clients.  She 
+focuses on reducing developmental cost through efficient outsourcing.  Her soft skills are keys in her efforts 
+to reproduce herself within client’s resources pool.  For years she has led projects through the full life cycle 
+and support perspectives.  Ms. Rashi is the President who works to enable clients to become self sufficient 
+in the use of technology solutions.  
+ 
+Industry Knowledge: 
+As a Business Specialist, Ms. Rashi’s skills allowed her to travel across Industries and countries that include 
+India, Singapore, China, Europe, Malaysia and the United States.  During her experience in Singapore, she 
+has participated in various business meets. 
+ 
+ Page 32 of 58 
+ 
+ 
+Technical Expertise: 
+Ms. Rashi has led many initiatives that involve a variety of outsourcing projects.  Among the many such 
+projects, Ms. Rashi has hands on experience in dealing with partners and negotiating effectively.  She is a 
+well known negotiator when it co mes to finalizing deals. She is also very proficient at using business 
+productivity applications like Microsoft Office and internet tools that include social networking sites.  
+ 
+Recognition: 
+Services provided by Ms. Rashi have consistently met and exceeded the expectations of her clients. She has 
+received numerous recognition and appreciations for outstanding performance in the IT and outsourcing field.  
+ 
+Leadership: 
+Ms. Rashi has performed in leadership roles for more than 10 years.  In addition to leading multiple teams of 
+technical professionals, she has been a leader in the application of soft skills and in managing the 
+organizational changes necessary to get results. Currently, she leads inoSoul, Inc. at the difficult economic 
+conditions prevailed all o ver the world. She also involves with local social and technical groups in a 
+leadership role.  
+ 
+Skills 
+Management Skills and Qualities: 
+Strong project management and team leadership abilities. 
+Focused on client, team, and overall business success. 
+Solid track record of goal-focused and value-add solutions. 
+Excellent decision-making, problem analysis, and presentation skills. 
+Outstanding multi-tasking ability, combining client and project tasks, managerial activities and business 
+development efforts. 
+Exceptional communication and relationship building skills. 
+ 
+Miscellaneous:  
+Microsoft Office / Microsoft Project / Lotus Notes/QuickPlace 
+ 
+Professional Experience 
+innoSoul, Inc.          President     July 2003 to 
+Current 
+ Designed various business plans; Partnered with NY state and IBM 
+ Developed outsourcing partners abroad; Recommended clients on best business practices 
+ Managed cash flows and financial stability of the company 
+ Ms. Rashi's tenure at innoSoul, Inc. consisted of developing business, establishing new partners, diversifying 
+business in various industries, technologies and demographics.  
+ Supply a proposed strategy of an organizational structure to implement organization requirements; Provide 
+HR leadership to the organization 
+ Translate business needs into HR requirements and work to ensure all needs are fulfilled  
+ Act as a liaison between technical business leaders and software vendors (specifically IBM). 
+ Serve as a key contributor in ensuring and creating strategy execution as it relates to the orchestration of 
+multiple projects and deliverables.  
+ Provide expertise in determining the strategic business direction and goals 
+ Organize and conduct meetings and conference calls with teams that include senior leaders, business 
+partners and vendors. 
+ Mentor and provide assistance, educational support and resource references to associates. 
+ Developing applicable training materials for associates. 
+G4 Technologies, Inc., Burlington MA  July 2002 to July 2003   HR 
+Executive 
+ Provide insight regarding strategic direction, planning and development (as well as the coordination and 
+implementation) of the Human Resource Development plans  
+ Provide recommendations to senior management regarding the Agency’s long-range HR strategy including 
+ 
+ Page 33 of 58 
+ 
+cost/benefit analysis and sizing of new teams.  
+ Maintain a close working relationship with senior leaders to understand organizational goals and Business 
+Requirements.   
+ Conduct technical and personal interviews of consulting resources for various teams.   Prepared specific 
+questionnaires for conducting technical interviews.     
+G4 Technologies, Pte Ltd., Singapore/Malaysia    July 2001 to July 2002 
+Marketing Executive 
+ Designed solutions maintaining existing Business Plans using creative marketing techniques  
+ Identify and document various marketing solutions for department needs  
+ Mitigate lost customer down-time through the deployment of solutions based on proven best business 
+practices  
+ Ensure availability of Marketing team to meet various organizational needs  
+ Manage and schedule team meetings  
+ Used Microsoft Office suite for documenting and monitoring the progress in addition to communicating 
+with the team and management 
+Various Companies, Hyderabad/Mumbai India September 1999 to July 2001  Marketing 
+Executive 
+ Provided marketing support for various organizations 
+ Involved in customer calls  
+ Managed marketing teams and encouraged productivity improvements in teams 
+ Conducted surveys and in-house brain-storming sessions to come out with new ideas 
+ Involved in implementing plans to enhance customer satisfaction levels  
+ 
+Education 
+ Bachelor of Science (BS) in Commerce and Computers from Osmania University, Hyderabad 
+ Certification course in Microsoft Technologies from Aptech, Hyderabad, India 
+ 
+Relevant Training: 
+ Various Human Resources and Marketing training sessions 
+ Various conferences and seminars in HR and Marketing 
+ 
+ 
+Shashi Kanth – Account Manager 
+Serves as the single point of contact for resolving contract issues and coordinating with the 
+client Contract Manager. 
+Manages the internal team responsible for delivering on contract obligations efficiently. 
+a. Writing/Technical Background: 
+18 years of IT experience, specializing in Service-Oriented Architecture (SOA), Enterprise 
+Application Integration (EAI), and Business Process Management (BPM). 
+Expertise in integrating ERP applications like SAP and Oracle, supported by hands -on 
+experience with backend systems. 
+b. Specific Training Attended to Increase Technical Knowledge: 
+Conducted technical training sessions for clients during his tenure at IBM. 
+Trained extensively in IBM WebSphere family products (WAS/WPS/ESB/Portal/MQ, 
+etc.). 
+c. Record for Meeting Timelines and Accuracy of Time Estimates: 
+Successfully delivered large -scale integratio n projects for multiple state agencies, 
+consistently adhering to projected timelines. 
+Known for his ability to lead projects through all phases, from design and development to 
+deployment, documentation, and support. 
+ 
+ Page 34 of 58 
+ 
+ 
+Mr. Shashi offers over 15 years of experience in the computer industry including 8 years 
+in the specialized areas of Services Oriented Architecture (SOA), Enterprise Applications 
+Integration (EAI) and Business Process Management (BPM).  He is an experienced 
+Architect and implementer of Java, J2 EE, Swing and SOA to implement ESB Solutions.  
+He is known as an SME around many facets of SOA and holds IBM Certifications in 
+WebSphere Business Integration Products (WAS, WPS/BPM, MQ, MQSI/WMB/IIB and 
+ESB).  From a strong Integration background and working as a SOA Architect for NY State 
+Agencies, Shashi was exposed to and began providing solutions with WPS/ BPM/ 
+ESB/WMB/IIB/ WID/IID/ Modeler/Monitor.  He recently rolled off services engagement 
+for multiple NY State agencies that required heavy SOA integration. 
+Mr. Shashi provides real life experience in providing Business Integration solutions to add 
+value to his clients.  He focuses on reducing developmental cost through the design and 
+building of reusable integration components and artifacts.  His soft c onsultant skills are 
+keys in his efforts to reproduce himself within client’s technical resources poll.  For years 
+he has led projects through the design, development, testing, deployment, rollout, 
+documentation, training and support perspectives.  Mr. Sha shi is a WebSphere Business 
+Integration Specialist who works to enable clients to become self -sufficient in the use of 
+IBM’s WebSphere Business Integration solutions.  
+ Strong project management and team leadership abilities. Focused on client, team, and 
+overall business success. Solid track record of goal-focused and value-add solutions. 
+ Excellent decision-making, problem analysis, and presentation skills. Outstanding multi -
+tasking ability, combining client and project tasks, managerial activities and busin ess 
+development efforts. 
+ Ability to combine leading -edge technologies with proven approaches for project 
+deployment in creating custom methodologies for client success.  Exceptional 
+communication and relationship building skills. 
+ 
+15 Staff Expertise, Experience and Qualifications.  
+Staff for Procurement Needs 
+The following key personnel and supporting team members from innoSoul, Inc. will be 
+responsible for fulfilling the procurement needs, addressing challenges, and ensuring 
+effective collaboration between government entities and vendors: 
+ 
+Key Personnel 
+1. Rashi Shamshabad – Contract Manager 
+o Expertise: Extensive experience in contract management, HR development, and 
+marketing, specializing in government projects for over 17 years. 
+o Qualifications: Bachelor's in Commerce and Computers; certified in Microsoft 
+Technologies, and trained in Business Management (Dartmouth College). 
+o Role: Oversees the entire project lifecycle, ensuring compliance, quality control, 
+and effective vendor management. 
+o Strengths: Exceptional negotiation skills, leadership abilities, and a proven track 
+record of managing state contracts across 17 states. 
+2. Shashi Kanth – Account Manager 
+ 
+ Page 35 of 58 
+ 
+o Expertise: 18 years of IT experience, with 13 years specializing in Service-
+Oriented Architecture (SOA) and Enterprise Applications Integration (EAI). 
+o Qualifications: Expertise in ERP systems (SAP, Oracle), certified in IBM 
+WebSphere technologies, and experienced trainer for technical programs. 
+o Role: Coordinates day-to-day contract execution, liaises with client Contract 
+Managers, and resolves issues promptly. 
+o Strengths: Strong consulting skills, technical expertise, and leadership in multi-
+phase projects for state agencies. 
+ 
+Supporting Team Members 
+ Recruiters and HR Executives: Responsible for sourcing, screening, and onboarding 
+quality candidates. 
+ Finance Manager and Accounting Executives: Manage invoicing, billing, and 
+adherence to contract financial terms. 
+ Administrative Assistant: Supports the Contract Manager and Account Manager with 
+documentation, scheduling, and correspondence. 
+ 
+Description of Staff/Team 
+1. Background of Staff Assigned to Provide All Services 
+ Technical Expertise: The team includes specialists with advanced knowledge in IT 
+architecture, procurement lifecycle management, ERP systems, and compliance 
+standards. 
+ Public Sector Experience: Proven track record of delivering services to state agencies 
+like NY, TX, MN, NC, and SC. 
+ Training and Development: Staff regularly undergo certifications in industry-standard 
+technologies and methodologies to stay updated. 
+2. Are Staff Members Assigned to Clients? 
+Yes, clients are assigned dedicated personnel for the duration of the pr oject. The assigned 
+Contract Manager and Account Manager act as the primary points of contact. This ensures 
+consistency, accountability, and seamless communication throughout the contract period. 
+3. Average Turnover of Employees 
+ InnoSoul maintains a low turnover rate of approximately 10%. This is achieved through 
+incentives like profit-sharing, bonuses, training reimbursement, and a supportive 
+workplace culture. 
+4. Client Management and Communication 
+ Client Management: Dedicated Account Managers oversee client relationships, monitor 
+SLAs, and manage service delivery. 
+ Communication: The team uses a combination of email, phone calls, and cloud-based 
+collaboration tools (e.g., Slack) to ensure clear and real-time communication. Regular 
+status updates and monthly reports are provided to clients. 
+5. Handling Project Personnel Changes 
+In case an assigned project personnel leaves before completion: 
+ A replacement candidate is sourced from innoSoul’s pre-vetted talent pool within two 
+weeks, ensuring minimal disruption. 
+ Knowledge transfer sessions are conducted to maintain continuity and meet project 
+objectives seamlessly. 
+ 
+ Page 36 of 58 
+ 
+6. Staff Training for Communication and Technical Skills 
+ Communication Training: Staff participate in workshops and coaching sessions to 
+enhance interpersonal and client interaction skills. 
+ Technical Knowledge: Employees attend certification programs, webinars, and 
+conferences to improve their expertise in relevant technologies and methodologies. 
+7. Policies and Procedures for Performance Appraisals 
+ Individual performance is reviewed quarterly based on SLAs, client feedback, and 
+internal benchmarks. 
+ Key metrics include:  
+o Timeliness and quality of deliverables. 
+o Feedback from clients and peers. 
+o Initiative in skill development and problem-solving. 
+ Appraisal outcomes determine eligibility for promotions, bonuses, and training 
+sponsorships. 
+ 
+16 Management Plan 
+1. Customer Service Approach 
+Dedicated Points of Contact:  
+Each client is assigned a d edicated Account Manager (e.g., Rashi Shamshabad or Shashi 
+Kanth) as the primary contact for queries and issue resolution. 
+Communication Channels:  
+Clients can reach representatives through email, phone, and cloud -based collaboration 
+tools like Slack for real-time responses. 
+Response Timelines:  
+Email/phone queries: Responded to within 8 business hours. 
+Status updates: Provided proactively in weekly or monthly reports. 
+ 
+2. Plan for Servicing Multiple States 
+Scalable Resource Network:  
+innoSoul utilizes its ne twork of 2,750+ partners across the U.S. to deploy resources 
+efficiently in various regions. 
+Regional Support Structure:  
+Satellite offices ensure coverage across multiple states. 
+Staff availability is maintained through rotational schedules and automated notifications. 
+Simultaneous Issue Resolution:  
+Real-time collaboration tools, like Slack and CEIPAL ATS, enable multiple teams to 
+address issues and deliver quality outputs concurrently. 
+Account Managers oversee coordination across different regions to ensure consistency. 
+ 
+3. Process for Determining Best Available Resources 
+Needs Assessment:  
+Analyze project requirements, timelines, and complexity. 
+Match skills from in-house talent pools using CEIPAL ATS. 
+Candidate Vetting:  
+Multi-level screening process, including competency assessments, technical interviews, 
+ 
+ Page 37 of 58 
+ 
+and background checks. 
+Cost Analysis:  
+Define costs based on skillsets, availability, and project duration. Detailed cost breakdowns 
+are shared with clients for transparency. 
+ 
+4. Methodology for “Out-of-House” Resources 
+Resource Gap Assessment:  
+If in-house resources are unavailable, the requirement is distributed through established 
+subcontractor networks. 
+Subcontractor Engagement:  
+Jobs are posted via automated systems to pre-vetted subcontractor mailing lists, reaching 
+over 2,750 partners. 
+Candidates undergo the same rigorous screening process to ensure quality. 
+SME Contracting:  
+For specialized needs, innoSoul consults with niche vendors to secure Subject Matter 
+Experts (SMEs) promptly. 
+ 
+5. Handling Supplemental Agreements and Legal Issues 
+a. State Government Entities Worked With: 
+Examples include:  
+NC: Department of Information Technology. 
+TX: Health and Human Services Commission. 
+NY: Department of Labor, Department of Taxation and Finance. 
+MN: Department of Human Services. 
+SC, MI, MD, VA, MS, FL, UT, PA, WA agencies and more. 
+b. Current Contracts Managed: 
+innoSoul currently manages over 15 government contracts , including master servic e 
+agreements and staff augmentation. 
+c. Staff Allocation Per Project: 
+Typically, 5–10 staff members  are assigned to ensure seamless execution, including an 
+Account Manager, recruiters, and technical leads. 
+d. Travel Policy: 
+innoSoul accommodates client needs by arranging on-site visits where necessary. Travel is 
+pre-approved and incorporated into project planning to ensure efficiency. 
+ 
+6. Quality Control Process Throughout Procurement Life Cycle 
+a. Internal Work Evaluation: 
+Regular audits and reviews of can didate sourcing, onboarding timelines, and client 
+feedback. 
+Metrics include adherence to SLAs, retention rates, and performance evaluations. 
+b. Client Feedback Process: 
+Monthly satisfaction surveys. 
+Dedicated account managers conduct feedback sessions with  clients to identify areas for 
+improvement. 
+c. Testing Documentation Effectiveness: 
+Internal peer reviews and test-case validations before client submission. 
+ 
+ Page 38 of 58 
+ 
+Follow-up with clients to confirm clarity and usability of documentation. 
+ 
+7. Plan for Acquiring State-Specific Procurement Knowledge 
+Legal and Procedural Onboarding:  
+Review each state’s procurement regulations and General Terms and Conditions during 
+contract initiation. 
+Attend state-provided training or onboarding sessions, if offered. 
+Subcontractor Utilization:  
+For niche requirements, subcontractors familiar with state-specific rules are engaged using 
+established networks. 
+ 
+8. Demonstration of a Diverse Knowledge Base 
+a. Subject Matters Covered: 
+IT Consulting and Consulting. 
+ERP System Integration (SAP, Oracle). 
+Cloud Computing, Networking, and Security. 
+Service-Oriented Architecture (SOA) and Business Process Management (BPM). 
+Compliance and Regulatory Advisory. 
+b. Staying Updated: 
+Participation in industry conferences, training sessions, and certi fications (e.g., IBM 
+WebSphere, CEIPAL ATS). 
+Regular knowledge-sharing sessions within the organization to discuss emerging trends 
+and technologies. 
+ 
+ 
+4. SUSTAINABILITY  
+A. Environmental Sustainability 
+1. Carbon Footprint Reduction – What measures does the Offeror take to reduce 
+greenhouse gas emissions and its carbon footprint? 
+2. Waste Reduction & Recycling – Does the Offeror have a waste reduction or 
+recycling program? 
+B. Economic Sustainability 
+1. Long-Term Sustainability Commitment – Does the Offeror have a 
+sustainability strategy or goals (e.g., carbon neutrality by a certain year)? 
+2. Compliance with Regulations – Does the Offeror comply with federal, state, 
+and local environmental laws that are applicable to its company and/or 
+industry? 
+3. Supply Chain Sustainability – How does the Offeror ensure sustainable 
+practices throughout its supply chain and/or providing of services? 
+C. Social Responsibility 
+ 
+ Page 39 of 58 
+ 
+1. Community Engagement – Does the Offeror invest in community programs or 
+sustainability initiatives? 
+2. Health & Safety Standards – Does the Offeror adhere to strong workplace 
+safety and health standards? 
+1. Community Engagement 
+ Investment in Community Programs: 
+o innoSoul, Inc. actively participates in and supports community initiatives, 
+fostering engagement through partnerships with other minority- and woman-
+owned businesses. 
+o By encouraging subcontractor collaborations, especially with women/minority-
+owned organizations, innoSoul contributes to creating a more inclusive and 
+diverse economic landscape. 
+o InnoSoul also participates in local social and technical groups, offering expertise 
+and mentorship to aspiring professionals in IT and related fields. 
+ Sustainability Initiatives: 
+o The company adopts cloud-based technologies to minimize paper use and reduce 
+its environmental footprint. 
+o Virtual recruitment strategies and automation contribute to operational efficiency, 
+further aligning with environmentally sustainable practices. 
+ 
+2. Health & Safety Standards 
+ Workplace Safety Commitment: 
+o InnoSoul maintains a stringent confidentiality and workplace safety policy. All 
+employees, whether in-house or client-site-deployed, review and sign 
+documentation ensuring adherence to safety standards. 
+o The company actively promotes workplace health by providing flexible work 
+hours and supporting remote operations when feasible. 
+ Employee Well-being: 
+o Comprehensive health training programs are conducted to raise awareness about 
+workplace safety practices. 
+o Regular updates on policies related to employee safety, non-discrimination, and 
+ethics are communicated and reinforced through periodic sessions. 
+ Incident-Free Record: 
+o In over 17 years of service to various government agencies, innoSoul has 
+maintained a perfect record of workplace safety with no reported breaches or 
+incidents. 
+D. Innovation and Best Practices 
+ 
+ Page 40 of 58 
+ 
+1. Sustainable Innovation – Has the Offeror developed new sustainable practices, 
+technology, or processes? 
+2. Certifications & Awards – Does the Offeror hold any recognized 
+sustainability certifications (e.g., ISO 14001, FSC, Fair Trade, Green Seal)? 
+3. Continuous Improvement – How does the Offeror track and improve its 
+sustainability efforts over time? 
+ 
+1. Sustainable Innovation 
+ New Sustainable Practices: 
+InnoSoul has embraced cloud-based technologies to streamline recruitment and 
+minimize environmental impact by significantly reducing reliance on paper-based 
+processes. 
+o Automation in job syndication and candidate tracking using tools like CEIPAL 
+ATS and Slack minimizes manual intervention and energy usage. 
+o Virtual hiring processes, including virtual walk-ins and online interviews, reduce 
+travel-related emissions while improving efficiency. 
+ Process Innovation: 
+InnoSoul employs real-time job postings syndicated across platforms such as LinkedIn, 
+Facebook, and Twitter without manual intervention, achieving faster candidate reach and 
+better resource utilization. 
+ Employee-Centric Sustainability: 
+Flexible working options and remote operations have reduced operational overheads and 
+employee commute-related emissions. 
+ 
+2. Certifications & Awards 
+ Certifications: 
+While specific sustainability certifications like ISO 14001 are not explicitly mentioned, 
+innoSoul adheres to rigorous standards, including: 
+o ISO 2700X for data security and compliance, ensuring ethical operational 
+practices. 
+o Robust confidentiality and safety policies to safeguard employee and client 
+interests. 
+ Recognitions & Awards: 
+InnoSoul has received accolades for its consistent quality delivery, particularly for 
+government projects across multiple states, showcasing its reliability and commitment to 
+long-term client success. 
+ 
+3. Continuous Improvement 
+ Tracking Sustainability Efforts: 
+ 
+ Page 41 of 58 
+ 
+o Regular internal reviews of energy and resource utilization identify areas for 
+improvement. 
+o Continuous upgrades to cloud-based systems ensure reduced operational impact 
+and energy efficiency. 
+ Feedback Integration: 
+o Sustainability metrics are reviewed periodically during performance evaluations. 
+o Feedback from clients and employees is incorporated to refine processes and align 
+them with broader environmental goals. 
+ Knowledge Sharing: 
+o Lessons learned from engagements with state and private entities are 
+systematically documented to enhance future initiatives. 
+o Training sessions on sustainable practices are conducted to keep the workforce 
+informed about environmentally responsible behaviors. 
+ 
+E. If you are seeking an award in both categories, are there unique differences in 
+your sustainability focus for each category that you would like to highlight?  
+Please expound or “NA” if only seeking an award in one category 
+Unique Differences in Sustainability Focus for Both Categories 
+If pursuing an award in both categories, innoSoul, Inc. highlights the following distinct sustainability 
+focuses that align with the nature of each category: 
+ 
+1. Sustainability in Procurement Operations: 
+o Emphasis on environmentally friendly practices in all procurement activities, such as 
+using paperless workflows for solicitation development and contract administration. 
+o Sourcing vendors and partners who adhere to sustainability standards, ensuring 
+environmentally responsible procurement at every stage. 
+2. Optimized Resource Utilization: 
+o Implementation of cost-saving measures through cloud-based tools and collaboration 
+platforms, minimizing energy consumption and administrative waste during the 
+procurement lifecycle. 
+3. Training on Sustainable Practices: 
+o Providing procurement professionals with training on sustainability-focused evaluation 
+criteria for vendor selection to promote greener practices. 
+ 
+4. Innovation in IT Sustainability: 
+o Leveraging cutting-edge cloud technologies to reduce the carbon footprint of IT 
+advisory services, such as transitioning legacy systems to more energy-efficient cloud 
+platforms. 
+o Promoting the adoption of Green IT solutions, such as server virtualization and energy-
+efficient data centers, in all consulting engagements. 
+5. Customized Sustainability Roadmaps for Clients: 
+ 
+ Page 42 of 58 
+ 
+o Developing tailored IT strategies that prioritize sustainability, such as integrating 
+renewable energy sources for data centers or implementing energy-efficient coding 
+practices. 
+6. Sustainability Through Continuous Improvement: 
+o Incorporating client feedback to refine and expand sustainable IT recommendations, 
+creating long-term environmental benefits. 
+ 
+Integrated Sustainability Approach  
+ Compliance with Environmental Standards: Adherence to regulations and sustainability 
+certifications wherever applicable. 
+ Automation and Efficiency: The use of tools like CEIPAL ATS and Slack to enhance efficiency 
+while minimizing resource consumption in both procurement and IT services. 
+ Diverse Vendor Collaboration: Working with environmentally conscious vendors and 
+subcontractors to uphold sustainability goals across categories. 
+ 
+17 Company Experience  
+1. Experience with Contracting Cooperatives 
+ Extensive Cooperative Experience: 
+innoSoul has partnered with several contracting cooperatives such as North Carolina 
+Master Contract, Michigan IT Staff Augmentation, and the Minnesota IT Professional 
+Technical Services Master Contract. 
+ Track Record: 
+Successfully executed projects across public sector domains, leveraging cooperative 
+purchasing mechanisms to deliver cost-effective and scalable consulting solutions. 
+ 
+2. Existing Cooperative Contracts and Sales Information 
+ Current Contracts: 
+innoSoul holds contracts with various cooperatives, including: 
+o MN IT Professional Services Master Contract (MCP-902TS): 
+Delivering IT consulting and consulting services with a consistent track record of 
+high client retention. 
+o MI IT Staff Augmentation Contract: 
+Supporting multiple agencies with scalable IT workforce solutions. 
+o SC Master Contract: 
+Providing specialized resources in areas like ERP systems and cloud technologies. 
+ Sales Volume Information: 
+Sales volumes vary by contract type and agency demand; innoSoul consistently meets 
+performance benchmarks by adhering to SLA requirements and optimizing resource 
+delivery. 
+ Restrictions on Pricing/Sales: 
+o InnoSoul complies with pricing agreements under cooperative contracts and has 
+no restrictions such as most-favored-nation clauses that conflict with its pricing 
+flexibility. 
+ 
+3. Marketing Strategy for the Master Agreement 
+ 
+ Page 43 of 58 
+ 
+ Outreach Initiatives: 
+o Launch targeted email campaigns to government entities and eligible 
+organizations. 
+o Conduct webinars and virtual demos to showcase offerings under the Master 
+Agreement. 
+ Leveraging Partnerships: 
+o Engage with existing subcontractor networks to promote the agreement widely. 
+o Utilize social media platforms (LinkedIn, Twitter) to increase visibility. 
+ Client Engagement: 
+o Dedicated Account Managers conduct one-on-one meetings with agency 
+representatives to explain benefits and encourage participation. 
+ 
+4. Website Features for the Master Agreement 
+ Dedicated Website:  
+o A responsive Web 2.0 platform tailored for Master Agreement services. 
+o Features include:  
+ Customized pricing details for Participating Entities. 
+ Dedicated Account Manager contact information. 
+ Online ordering and tracking functionalities. 
+ Regular updates on service offerings, FAQs, and contract details. 
+ 
+5. Staff Allocation and Training 
+ Allocated Resources: 
+o Contract Manager (Rashi Shamshabad) and Account Manager (Shashi Kanth) 
+oversee all operations and client relationships. 
+o Recruiters, HR executives, and subcontractor liaison teams ensure fulfillment of 
+assignments. 
+ Training for Compliance: 
+o Comprehensive training sessions on Master Agreement terms, pricing policies, 
+and adherence to cooperative regulations. 
+o Internal workshops to familiarize staff with contract-specific requirements and 
+reporting protocols. 
+ 
+6. Negotiation Approach for Participating Addenda 
+ Flexibility for Participating Entities:  
+o InnoSoul offers Participating Entities the ability to customize addenda with entity-
+specific language, provided statutory citations and regulations are clearly 
+documented. 
+o Resources are allocated to manage simultaneous negotiations effectively to ensure 
+prompt agreement finalization. 
+ 
+7. Immediate Availability of Products and Services 
+ Seamless Service Execution:  
+o With a robust database of pre-vetted candidates and subcontractor networks, 
+innoSoul ensures immediate deployment upon agreement execution. 
+ 
+ Page 44 of 58 
+ 
+o Proven processes and automation tools streamline onboarding for rapid 
+fulfillment of requests. 
+ 
+8. Ensuring Accurate Sales Reporting 
+ Sales Tracking Mechanisms:  
+o Cloud-based tools (QuickBooks and CEIPAL ATS) track orders and sales 
+activities in real-time. 
+o Partners and resellers are required to submit monthly summaries for aggregation. 
+o Reports are reviewed by Account Managers to ensure compliance and accuracy. 
+ 
+18 Approach and Methodology 
+InnoSoul employs a suite of well-defined and adaptable methodologies to provide exceptional services 
+across all proposed categories. Here's a breakdown of our general approach: 
+ 
+1. Candidate Selection and Screening 
+   - Competency-Based Assessments: Skill matrices are created based on client requirements to ensure 
+candidates meet both technical and behavioral standards. 
+   - Multi-Level Screening: Includes video interviews, technical skill tests, and references validation to 
+ensure the highest quality in placement. 
+   - Applicant Tracking System (ATS): Technology-driven processes using CEIPAL and social media 
+integration for maximum reach and efficient candidate management. 
+ 
+2. Project Delivery Framework 
+   - Planning Phase: Clearly defined project objectives, timelines, and resource allocation. 
+   - Execution Phase: Regular monitoring through established communication channels and reporting 
+mechanisms. 
+   - Evaluation and Closure: Documenting knowledge transfer and conducting performance reviews to 
+assess project success. 
+ 
+3. Continuous Monitoring 
+   - Performance Metrics: Periodic performance evaluations and client feedback loops ensure consistent 
+alignment with goals. 
+   - Issue Mitigation: Rapid problem resolution through a robust database of qualified replacements to 
+prevent disruptions. 
+ 
+4. Quality Assurance (QA) 
+   - Process Improvement: QA reviews help refine workflows and eliminate bottlenecks. 
+   - Feedback Incorporation: Lessons learned from each engagement are systematically used to improve 
+future placements. 
+ 
+5. Training and Knowledge Transfer 
+   - Train-the-Trainer: Senior consultants undergo extensive training to mentor others effectively. 
+   - On-the-Job Training: Includes tailored knowledge-sharing sessions for seamless integration of 
+resources. 
+ 
+6. Compliance and Security 
+ 
+ Page 45 of 58 
+ 
+   - Regulatory Adherence: In-depth understanding of compliance standards such as ISO 2700X and NIST 
+ensures secure and reliable service delivery. 
+   - Background Checks: Comprehensive checks for work eligibility, certifications, and criminal history. 
+ 
+By integrating these methodologies, InnoSoul ensures that every service provided is tailored to meet the 
+Client's strategic goals while maintaining a high standard of excellence.  
+18.1 Benefits 
+The methodologies employed by innoSoul offer several key benefits to clients, ensuring efficient, high-
+quality, and reliable consulting and consulting services: 
+ 
+1. Enhanced Quality of Resources 
+   - Comprehensive screening processes ensure that only the most qualified candidates are presented to 
+clients. 
+   - Skill assessments, background checks, and certifications guarantee candidates meet industry 
+standards. 
+ 
+2. Increased Efficiency 
+   - Streamlined processes, such as internal SLAs for sourcing and onboarding, ensure quick turnaround 
+times. 
+   - Use of technology, like Applicant Tracking Systems (ATS) and automation tools, allows for faster and 
+more accurate matching of candidates to positions. 
+ 
+3. Risk Mitigation 
+   - Continuous performance monitoring and feedback loops help identify and address issues early. 
+   - Database of pre-vetted candidates enables quick replacements in case of unexpected disruptions. 
+ 
+4. Client-Centric Approach 
+   - Transparent communication channels and tailored solutions ensure alignment with client needs and 
+goals. 
+   - Regular status reporting and performance metrics provide visibility into progress and areas for 
+improvement. 
+ 
+5. Long-Term Success 
+   - Training and mentoring initiatives enhance the capabilities of placed candidates, ensuring sustained 
+performance. 
+   - Knowledge transfer processes and lessons learned from previous engagements help refine future 
+placements. 
+ 
+6. Scalability and Flexibility 
+   - Proven ability to handle large volumes of consulting requirements, supported by a strong network of 
+subcontractors. 
+   - Flexibility to adapt methodologies to specific client needs, ensuring tailored solutions. 
+ 
+These methodologies not only help innoSoul deliver exceptional results but also foster trust and long-
+term partnerships with clients.  
+ 
+ Page 46 of 58 
+ 
+19 Experience, Capacity and History 
+19.1 Organization Profile 
+ innoSoul, Inc. (Est. 2003) is a leading information technology firm providing highly customized and 
+integrated consulting solutions for various businesses comprising of a broad spectrum of public and 
+private sector clients. innoSoul is a certified IBM Partner, and a multinational computer technology and 
+consulting corporation. Our cost effective, high quality government services are undoubtedly the reason 
+why many of the nation’s largest Government agencies seek our services for their technical solution 
+needs.  innoSoul has extensive expertise and specialization in IBM WebSphere, Java, J2EE, Oracle, 
+Microsoft, and Oracle Applications. innoSoul is managed by technocrats with experience with startups 
+and established companies with lean organization/management structure. We work with mostly (75%) 
+full-time employees with around 25% sub-contractors/independent contractors.  
+ 
+innoSoul, Inc. was first started in the state of NV in 2003. innoSoul, Inc. is a corporation. innoSoul, Inc. 
+solution offerings are based on the concept of full consulting life cycle. innoSoul ensures planned, result-
+oriented and end-to-end solution with emphasis on planning, account management and change 
+management with consistent monitoring and tracking of resources which results in substantial reduction 
+of implementation related risks and disruptions. innoSoul provides high value solutions for various state 
+and local governments in the USA, using the proven consulting methodology. innoSoul utilizes best 
+practices facilitating clients a chance to understand technical possibilities effectively utilizing the power 
+of technology. 
+ 
+innoSoul is working with various organizations in private and public sector.  It offers necessary resources 
+and expertise to augment client consulting needs. Since 2003 we are experienced in consulting and 
+innovation. innoSoul understands how to assess customer’s needs, from both a business and 
+technological perspective. innoSoul offers an array of services through its Cost Optimization practices 
+that will help customers assess, optimize, and consolidate their resources. Customers will then be able 
+to make the move through a realistic assessment to see how our consulting can meet their 
+requirements for today, tomorrow, and beyond. 
+ 
+innoSoul is IBM partner with inception and specializes in IBM integration technologies. We carved out a 
+niche in Service Oriented Architecture (SOA) offerings and providing services to major state and private 
+sector clients. We provided our staff with various skills to NY state agencies (DOL, DCJS, DTF, OTDA etc.), 
+MA DOR, TX (TEA/TWC/HHSC/DFPS/CPA/TDLR/TPWD/RRC/DART/City of Plano), NC, SC  and major 
+private clients like JPM Chase, Cigna, Chubb Insurance, BCBS/Health Now/HCSC, Atlas Air, Honda, First 
+Tennessee Bank, eBay, SunTrust Bank, NetJets, Travel Guard/AIG, Genworth Financials, etc.  
+ 
+We develop internal resources in specialized niche technologies and provide other vanilla technology 
+resources from market. We have been providing staff covering breadth of technological landscape that 
+includes Oracle, SAP, Microsoft, Java, IBM, Cloud, Mobile, Networking, Security etc. areas. With this 
+experience, we are confident and committed to provide quality service to the state of KS and its 
+agencies at competitive rates. 
+innoSoul, Inc. has been providing services requested in this solicitation to TX, NC, NY, SC, MI, MD, MN, 
+etc. state agencies, other local governments, school districts and other private/public entities. 
+ 
+ 
+ Page 47 of 58 
+ 
+19.2 Qualifications  
+innoSoul is planning to reach out to all customers with our offerings. We intend to 
+utilize technology in reaching out to vast customer base that will be in reach 
+through the contract from this Solicitation. Our responsive Web 2.0 website has 
+current contract details and will be updated with our new contract information along 
+with rate card in addition to our other service offerings as seen below: 
+ 
+ 
+ 
+innoSoul, Inc. with its technology edge combined with quality resources can deliver 
+an efficient workforce to KS customers. With our efficient business process of 
+sourcing candidates, and cost advantage we anticipate most of our marketing and 
+support efforts will lead to a successful business relationship with the state of 
+Texas. The efficiencies at each stage of the process will result in savings all along 
+the supply chain. Technology edge and experience of innoSoul will help convert 
+process improvements and efficiencies into cost savings and valuable quality 
+resources for the end customer. 
+ 
+innoSoul, Inc. will provide quality sales, order processing and support for all state’s 
+customers using our in-house methodologies and systems evolved over last two 
+decades. We maintain an account manager who will be in-charge for all 
+communication with the state. The account manager is available all the time 
+through emails, phones and in-person when required. The response time for 
+email/phone call is within 8 business hours and personal meeting within one 
+business day. 
+ 
+We have satellite offices in various cities that we have been leveraging to provide 
+consulting services to various states. We also have partners and subcontractors in 
+
+ 
+ Page 48 of 58 
+ 
+various locations across the United States. We use our email group for partners that 
+reach close to 2750 partners in the country. We share our demands with all 
+partners automatically by email immediately after we receive from our clients. We 
+utilize our partners’ expertise and experience in serving the state.  
+ 
+ 
+ 
+Being a woman owned organization; we encourage other woman/minority owned 
+organizations to work with us in fulfilling demands arising from various clients.  
+ 
+19.3 Experience 
+Since 2003, with experience in consulting, consulting and innovation, innoSoul 
+understands how to assess customer needs, from both a business and technological 
+perspective. innoSoul offers an array of services through its Cost Optimization 
+practices that will help customers assess, optimize, and consolidate their resources. 
+Customers will then be able to make the move through a realistic assessment to 
+see how our consulting can meet their requirements for today, tomorrow, and 
+beyond. innoSoul resources have extensive experience, hold advanced degrees and 
+have most of the industry standard certifications by Microsoft, Cisco, Oracle, PMI 
+etc.  
+ 
+innoSoul is working with various organizations in private and public sector.  It offers 
+necessary resources and expertise to augment client consulting needs. Some of 
+innoSoul's current and past Consulting/Consulting contracts are:  
+ 
+1. CA: DEPARTMENT OF GENERAL SERVICES PROCUREMENT DIVISION  
+2. FL: Florida State: Miami-Dade County Bid 071-LL04, Information Technology Services 
+3. NC: Master Contract for the State of North Carolina 
+4. MI: State of Michigan Staff Augmentation Contract  
+5. MN: Professional Technical Services Master Contract Program (MCP) - 902TS 
+6. MS: State of Mississippi General RFP – Information Systems Consulting Services 
+
+ 
+ Page 49 of 58 
+ 
+7. MT: Master Contract for Services Term Contract SPB06-1263B-17F  
+8. NY: INFORMATION TECHNOLOGY TEMPORARY PERSONAL SERVICES BACKDROP CONTRACT  
+9.   NY Project based Consulting Services  
+10. OK: University of OK Annual Consulting and Consulting Services 
+11. PA: State of Pennsylvania Vendor Management System (VMS) by Compaid, Inc. 
+12. SC: Master Contract for the State of South Carolina 
+13. UT: Information Technology Consulting Services for DTS--DWS 
+14. VA: VA Contingent Labor contract vendor 
+15. WA: Washington State Department of Enterprise Services (DES) Information Technology: 
+Professional Services  
+16. MD: MHBE Information Technology: IDIQ Consulting & Technical Contract 
+19.4 Methodology 
+The Account Manager will coordinate and control various activities involved in 
+contract management and client fulfillment process. innoSoul uses standard based 
+systems approach where each process/activity is predefined and reviewed for 
+improvement periodically. The following process is used by innoSoul staff to fulfill 
+basic tasks related to the contract through this Solicitation. Candidates are sourced 
+and on boarded at client location with systematic step-by-step approach outlined 
+below:  
+ 
+ 
+InnoSoul uses new technologies and tools to make it an efficient and effective process. We utilize 
+internet-based technologies to improve the process and decrease the time it takes to implement the 
+process. We define SLAs for each step and review them for adherence. We use various technologies in 
+automating our recruitment process as shown in below diagram. We also use Virtual Walk-ins, Social 
+Hiring, User Groups administration, Referrals and ATS – Applicant Tracking System to track the process. 
+We will manage the client with the following principles:  
+ 
+
+ 
+ Page 50 of 58 
+ 
+ 
+ 
+19.5 Measurement 
+Here’s an insightful response addressing both quantitative and qualitative measures 
+of successful placement, as well as innoSoul's performance over the past three 
+years: 
+ 
+19.5.1 Quantitative Measures   
+1. Timeframes for Placement:   
+   - Internal Service Level Agreements (SLAs) ensure sourcing candidates within 
+specified timelines, including job review, sourcing, shortlisting, interviewing, 
+submission, and onboarding.   
+   - Metrics:   
+     - Job review and posting: 15 minutes.   
+     - Sourcing profiles: 2 hours.   
+     - Shortlisting: 4 hours.   
+     - Interviewing: 1 day.   
+     - Candidate onboarding: 3 days.   
+ 
+2. Placement Retention Rate:   
+   - Percentage of candidates completing assignments successfully, maintaining 
+productivity throughout.   
+   - Over the past three years: Retention rate exceeded 90%.   
+ 
+3. Performance Feedback:   
+   - Regular feedback from Client teams evaluating consultants’ contributions and 
+alignment with project goals. 
+ 
+19.5.2 Qualitative Measures   
+1. Client Satisfaction:   
+
+ 
+ Page 51 of 58 
+ 
+   - Consistent communication with stakeholders ensures alignment of expectations. 
+Feedback mechanisms are established to evaluate candidate effectiveness and 
+adaptability.   
+ 
+2. Performance Monitoring:   
+   - In-depth review of consultant contributions, problem-solving capabilities, and 
+teamwork.   
+   - Strategies such as periodic interventions and one-on-one counseling to address 
+potential challenges proactively.   
+ 
+3. Consultant Engagement and Growth:   
+   - Offering continuous training and development, mentorship programs, and 
+incentives to retain high-performing consultants.   
+19.5.3 Performance Metrics Over the Last Three Years 
+- Submission Efficiency:   
+   - Meeting SLAs consistently with more than 90% timely submissions.   
+   - Candidate backouts maintained at 0%, ensuring reliability and trust in 
+placements. 
+ 
+- Retention and Adaptability:   
+   - Consultants have been able to adapt seamlessly to diverse projects, reflected in 
+high client satisfaction scores and repeat engagements. 
+ 
+- Innovative Practices:   
+   - Use of CEIPAL ATS, automation tools, and strategies such as virtual walk-ins 
+and social hiring to improve sourcing efficiency.   
+   - Proactive use of collaboration tools like Slack ensures rapid adjustments to 
+consulting needs.   
+ 
+Through these methodologies, innoSoul has consistently delivered measurable 
+success in staff placements while maintaining the Client’s strategic objectives. 
+19.5.4 Timeline 
+We follow internal Service Level Agreements (SLAs) for our recruitment process to 
+better serve our clients. We strive to meet below timelines and review performance 
+to improve the same: 
+ 
+innoSoul’s interaction with the customer is limited to what is agreed upon in the 
+contract. Our preferred mode of communication is either emails or phone calls. We 
+make sure that the staff that is authorized to discuss issues with the client is the 
+only one contacting with required information. Wherever required, we participate in 
+dialogue and/or training required to enhance our delivery and customer 
+satisfaction.  
+ 
+innoSoul believes in continuous improvement of our service levels and customer 
+satisfaction. It is not possible to improve something that is not measured. We 
+ 
+ Page 52 of 58 
+ 
+believe in maintaining all required status reports on our work with each customer 
+and review them periodically. It helps in understanding the level of service we are 
+providing to our customers and at the same time helps improve our performance. 
+ 
+We have been reporting to state agencies on our contracts. We will continue to 
+communicate promptly on various recruitment stages to various agencies as 
+outlined below:  
+- Response to email from client: within 8 business hours 
+- Response to phone calls from client: within 8 business hours 
+- Response to interview requests: within 8 business hours 
+- Monthly report to the state: by 10th of every month 
+ 
+On-boarding times; 
+Account managers interact with client representatives for interviews and 
+onboarding. The client interaction is limited to authorized users and all accepted 
+protocols are used to maintain confidentiality and integrity of the contract. We have 
+been providing following onboarding times to various state agencies on our current 
+contracts. We will continue to provide similar SLAs promptly on various on-boarding 
+stages to various agencies as outlined below:  
+- Scheduling interviews: 8 business hours 
+- Background verification initiation: 8 business hours 
+- Coordinating with the candidate for documents/signatures: 2 business days  
+- Signing PO or any other documents by vendor: 8 business hours 
+- Overall on-boarding process time: 5-10 business days (including background 
+verification) 
+Order Tracking communications  
+innoSoul, Inc. believes in timely invoicing along with signed timesheets from the 
+customer. We use cloud-based QuickBooks invoicing system from Intuit. We are an 
+authorized reseller of QuickBooks for Intuit along with service provider for various 
+clients. In the process, we honed in-house expertise in invoicing and accounting. 
+Our normal payment terms are Net30 but we can work with various clients on their 
+convenient terms. Our invoices are sent to the customer by email at the end of 
+each month with a PDF attachment of invoice, timesheets in addition to brief details 
+of invoice in the email. Our SLA for order tracking is to invoice the client within 5 
+business days after the end of the month.  
+Follow-up process and timeline. 
+innoSoul believes in continuous monitoring of resources working on client 
+assignment through periodic interventions. The process looks for any issues or 
+scope for issues and tries to address them immediately through counseling. Our 
+staff is experienced in identifying and resolving any issues. innoSoul keeps a 
+database of quality resources and it has been enhanced year after year. In an 
+adverse situation where a candidate fails to perform as per the customer’s 
+expectations and need to leave the project for reasons out of our control, the 
+candidate is replaced with no disruption in service. Our database of quality 
+candidates comes in handy in a quick replacement in adverse situations like this. 
+ 
+ Page 53 of 58 
+ 
+We will provide 2-week guarantee of our services and provide equivalent training or 
+knowledge transfer to client when we have to replace a candidate for performance 
+issue. We have been providing following response times to various state agencies 
+for many years on our current contracts. We will continue to provide similar SLAs 
+promptly to various agencies as outlined below:  
+- Response to email from client: within 8 business hours 
+- Response to phone calls from client: within 8 business hours 
+- Replacement of consultant: two weeks 
+ 
+19.6 Service Management Plan 
+innoSoul follows the standard methodologies that could be tailored to meet the specific organizational needs of 
+clients. innoSoul ensures planned, result-oriented and end-to-end consulting solution with emphasizes on planning, 
+account management and change management with consistent monitoring and tracking of resources which results in 
+substantial reduction of implementation related risks and disruptions. innoSoul has embarked on an ambitious 
+trajectory for providing high value solutions for various state governments in the USA, using the proven consulting 
+methodology.  
+19.7 innoSoul Offerings 
+With more than 8 years of experience in consulting and innovation, innoSoul understands how to assess customer’s 
+needs, from both a business and technological perspective. innoSoul offers an array of services through its Cost 
+Optimization practices that will help customers assess, optimize, and consolidate their resources. Customers will 
+then be able to make the move through a realistic assessment to see how our consulting can meet their requirements 
+for today, tomorrow, and beyond.  
+innoSoul’s offerings include:  
+ Assess candidates for readiness and suitability for a position  
+ Unbiased approach to selecting the best candidate  
+ Conduct interviews before submitting 
+ Continuous review of candidates for stated performance  
+19.8 innoSoul History 
+Since inceptions in 2003, innoSoul is working with various organizations in private and public sector. In 
+2003, innoSoul started providing resources/consultants to IBM and New York State department of 
+Taxation and Finance. In 2007, innoSoul provided resources to NY State Department of Labor. This year, 
+the organization started providing resources to NY State Division of Criminal Justice, NC, SC, MN etc. 
+innoSoul also worked with Texas Education Agency, State of Nevada, etc. We are also providing 
+resources to various other NY State Agencies since the beginning of this year. In addition, we have been 
+supplying consultants to various private sector entities like BCBS, SunTrust Bank,HealthNow, NetJets etc.  
+19.9 Most recent, comparable contracts: 
+1 NY State Department of Taxation and Finance 
+2. NY State Department of Labor 
+3. NY State Division of Criminal Justice  
+4. NY State Office of Temporary and Disability Assistance 
+5. MA Department of Revenue 
+6. MN Department of Human Services (Consulting/Implementation project) 
+7. Nevada State 
+8. Texas Education Agency 
+ 
+ Page 54 of 58 
+ 
+9. State of South Carolina 
+10. State of North Carolina 
+11. State of Michigan 
+12. State of Washington  
+13. State of Mississippi  
+14. State of Utah 
+15. Deloitte Consulting 
+16. eBay 
+17. Honda 
+18. SunTrust Bank 
+19. BCBS NY/IL/MA/NJ 
+20. NetJets, Columbus OH 
+21. Atlast Air 
+22. Chubb Insurance 
+23. IBM 
+24. LBPS 
+25. Verizon 
+26. Frontier Communications 
+27. First Tennessee Bank 
+28. Ciber  
+19.10 Financials 
+We are proving valuable to government sector customers by providing 
+timely and quality resources. Another major factor in our growing 
+success with government clientele is our pricing: we are able to source 
+quality resources in -house and established subcont ractor channels at 
+affordable prices and passing the benefits to our customers. InnoSoul 
+has improved its internal processes since 2003 by deploying latest tools 
+and technologies in consulting process. We have a solid P&L and balance 
+sheet from the first y ear of operations in 2003 with no bankruptcies 
+filed.  
+19.11 Insurance 
+We have been maintaining sufficient insurance coverages for the other agencies and the 
+same should be good for the Client. Please fin the current policy limits for your review:  
+19.12 Process 
+Service Delivery 
+innoSoul has proven service delivery model in place where the staff follows predefined processes in 
+delivering results to customers. The process is well documented and the staff is trained to follow the 
+instructions to achieve best results. The system helps in delivering quality resources to the customer.  
+Quality Assurance 
+The candidate selection process is streamlined over a period of 8 years and candidates are reviewed for 
+their past performance. In addition, candidates are verified for their past work performed by 
+background checks. This ensures quality resources are sourced every time.  
+ 
+ Page 55 of 58 
+ 
+Problem Management 
+innoSoul believes in continuous monitoring of resources working on client assignment through periodic 
+interventions. The process looks for any issues or scope for issues and tries to address them immediately 
+through counseling. Our staff is experienced in identifying and resoling any issues.  
+Corrective Actions 
+innoSoul keeps a database of quality resources and it has been enhanced year after year. In an adverse 
+situation where the candidate fail to perform per the customer’s expectations are need to leave for 
+reasons out of organization’s control, the candidate is replaced with no disruption in service. Our 
+database of quality candidates comes in handy in a quick replacement in adverse situations  
+Customer Interaction 
+innoSoul’s interaction with the customer is limited to what is agreed upon in the contract. Our preferred 
+mode of communication is either emails or phone calls. We make sure that the staff that is authorized to 
+discuss on any issue is only contacted with required information. Wherever required, we participate in 
+dialogue and/or training required to enhance our delivery and customer satisfaction.  
+Status Reporting  
+innoSoul believes in continuous improvement of our service levels and customer satisfaction. It is not 
+possible to improve something that is not measured. We believe in maintaining all required status 
+reports on our work with each customer and review them periodically. It helps in understanding the 
+level of service we are providing to our customers and at the same time help us improve our 
+performance.  
+Performance  
+We follow internal Service Level Agreements (SLAs) for our sourcing process to better serve our clients. 
+We strive to meet below timelines and review performance to improve the same: 
+Job review, Job Description preparation and posting: 15 minutes 
+Sourcing relevant profiles from various sources: 2 hours 
+Shortlisting most suitable profiles: 4 hours 
+Interviewing shortlisted candidates: 1 day 
+Submitting final candidates to client: 1 days 
+Client interview schedule: 1 days 
+Candidate onboarding: 3 days 
+Automation: Focus Areas: 
+Virtual Walk-ins 
+Social Hiring 
+User Groups 
+Referrals  
+ATS – Applicant Tracking System 
+Collaboration Tools (Slack) 
+ 
+We use technology to the max in sourcing resources. We have state-of-the-art technology solution 
+deployed on our website. All our requirements are posted on our website automatically without any 
+manual intervention. We use “wordpress-post by email” feature to post job requirements along with 
+required attachments directly on our website. The same is automatically syndicated to various locations 
+that include LinkedIn, Facebook, Twitter, Tumblr, Google+, Flickr, Pinterest, Instagram, Reddit etc. Our 
+website allows prospective candidates and vendors to subscribe to job posts so that they can respond to 
+our jobs when they see a match. 
+ 
+ Page 56 of 58 
+ 
+ 
+In addition, our CEIPAL Applicant Tracking Systems (ATS) maintains database of candidates that can be 
+matched to each requirement and can be sent to suitable candidates. Each job is also posted in various 
+job portals where interested candidates will respond to suitable jobs. Our team of recruiters will also 
+search for suitable candidates within minutes of a new job posting. With all above strategies, we are 
+aiming to reach to all potential candidates out there in record time to improve our performance. We 
+have been meeting our SLAs for last 3 years with various state agencies. Our submissions are above 90% 
+and backouts are at 0% in last 3 years.  
+19.13 Methodology  
+The Account Manager will coordinate and control various activities involved in 
+contract management and client fulfillment process. innoSoul uses standard based 
+systems approach where each process/activity is predefined and reviewed for 
+improvement periodically. The following process is used by innoSoul staff to fulfill 
+basic tasks related to the contract through this Solicitation. Candidates are sourced 
+and on boarded at client location with systematic step-by-step approach outlined 
+below:  
+
+ 
+ Page 57 of 58 
+ 
+ 
+ 
+InnoSoul uses new technologies and tools to make it an efficient and effective process. We utilize 
+internet-based technologies to improve the process and decrease the time it takes to implement the 
+process. We define SLAs for each step and review them for adherence. We use various technologies in 
+automating our recruitment process as shown in below diagram. We also use Virtual Walk-ins, Social 
+Hiring, User Groups administration, Referrals and ATS – Applicant Tracking System to track the process.  
+ 
+  

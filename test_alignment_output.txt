@@ -1,0 +1,9 @@
+Testing Alignment Fix...
+--- RESPONSE START ---
+Legal Company Name <u>InnoSoul, Inc.</u>
+Year Established <u>2003</u>
+Authorized Signatory
+Name: <u>Rashi Shamshabad</u>
+Title: <u>President</u>
+--- RESPONSE END ---
+SUCCESS: Answer is inline.

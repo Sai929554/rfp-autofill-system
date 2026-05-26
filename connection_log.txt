@@ -1,0 +1,4 @@
+API Key present: True
+Success: Yes, I'm here! Connection is successful on my end.
+
+How can I help you today?
