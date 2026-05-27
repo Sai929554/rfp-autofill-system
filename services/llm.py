@@ -16,7 +16,6 @@ if not GEMINI_API_KEY:
 genai.configure(api_key=GEMINI_API_KEY)
 
 MODEL_NAME = "gemini-2.5-flash"
-response = model.generate_content(prompt)
 
 # =========================
 # PROMPTS
