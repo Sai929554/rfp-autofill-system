@@ -110,10 +110,7 @@ def _llm_call(prompt: str, max_retries: int = 3) -> str:
     model = genai.GenerativeModel(MODEL_NAME)
     for attempt in range(max_retries):
         try:
-            response = client.models.generate_content(
-                model=MODEL_NAME,
-                contents=prompt
-            )
+            response = model.generate_content(prompt)
             return response.text.strip()
 
         except Exception as e:
